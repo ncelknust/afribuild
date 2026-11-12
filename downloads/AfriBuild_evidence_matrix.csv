@@ -1,0 +1,55 @@
+iso3,country,bloc,studies,Cement and clinker,"SCMs, calcined clay, geopolymer",Concrete and mortar,"Cement blocks (sandcrete, concrete block)",Fired clay brick,"Earth (adobe, CEB, rammed, laterite)",Steel and metal roofing,Aluminium and glass,"Timber, bamboo and bio-based","Ceramics, tiles and finishes",Aggregates and sand,Recycled and waste-derived
+AGO,Angola,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+BDI,Burundi,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+BEN,Benin,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+BFA,Burkina Faso,West Africa,3,2,1,2,1,0,1,1,1,1,2,1,0
+BWA,Botswana,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+CAF,Central African Republic,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+CIV,Cote d'Ivoire,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMR,Cameroon,Central Africa,4,1,0,1,1,1,1,0,0,0,0,1,0
+COD,Democratic Republic of the Congo,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+COG,Republic of the Congo,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+COM,Comoros,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+CPV,Cabo Verde,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+DJI,Djibouti,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZA,Algeria,North Africa,4,1,1,0,0,0,0,0,0,0,0,0,2
+EGY,Egypt,North Africa,7,0,1,1,0,3,1,0,0,0,0,0,1
+ERI,Eritrea,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+ETH,Ethiopia,East Africa,4,1,0,1,1,0,1,3,0,1,0,1,0
+GAB,Gabon,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+GHA,Ghana,West Africa,9,0,2,4,1,0,1,1,0,2,1,0,3
+GIN,Guinea,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+GMB,The Gambia,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+GNB,Guinea-Bissau,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+GNQ,Equatorial Guinea,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+KEN,Kenya,East Africa,3,1,1,0,0,0,0,0,0,2,0,0,2
+LBR,Liberia,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+LBY,Libya,North Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSO,Lesotho,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MAR,Morocco,North Africa,7,0,0,1,0,1,1,0,0,2,0,0,1
+MDG,Madagascar,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MLI,Mali,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MOZ,Mozambique,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MRT,Mauritania,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MUS,Mauritius,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+MWI,Malawi,Southern Africa,1,1,0,0,1,1,0,0,0,0,0,0,0
+NAM,Namibia,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+NER,Niger,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+NGA,Nigeria,West Africa,12,0,0,2,2,3,1,3,1,3,0,0,3
+RWA,Rwanda,East Africa,1,0,0,0,0,0,0,0,0,0,0,0,1
+SDN,Sudan,North Africa,1,0,0,0,0,1,0,0,0,0,0,0,0
+SEN,Senegal,West Africa,1,0,0,0,0,0,0,0,0,1,0,0,0
+SLE,Sierra Leone,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+SOM,Somalia,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+SSD,South Sudan,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+STP,Sao Tome and Principe,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+SWZ,Eswatini,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+SYC,Seychelles,East Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+TCD,Chad,Central Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+TGO,Togo,West Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+TUN,Tunisia,North Africa,1,0,0,0,0,1,0,0,0,0,0,0,0
+TZA,Tanzania,East Africa,1,0,0,0,0,1,0,0,0,0,0,0,0
+UGA,Uganda,East Africa,3,0,0,0,0,3,0,0,0,1,0,0,0
+ZAF,South Africa,Southern Africa,20,8,3,3,0,3,0,1,0,1,0,1,1
+ZMB,Zambia,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZWE,Zimbabwe,Southern Africa,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,55 @@
+iso3,country,bloc,grid_gco2e_kwh,avg_cement_median,avg_cement_p2_5,avg_cement_p97_5,cem1_median,cem1_p2_5,cem1_p97_5,electricity_share_pct
+AGO,Angola,Central Africa,185.38,623,518,751,802,722,881,2.8
+BDI,Burundi,East Africa,183.67,622,517,751,802,722,881,2.7
+BEN,Benin,West Africa,584.16,661,554,791,840,757,920,8.2
+BFA,Burkina Faso,West Africa,562.13,658,552,789,837,756,918,8.0
+BWA,Botswana,Southern Africa,851.31,686,577,818,865,780,949,11.6
+CAF,Central African Republic,Central Africa,111.11,616,510,744,795,715,874,1.7
+CIV,Cote d'Ivoire,West Africa,405.01,643,537,772,823,741,902,5.9
+CMR,Cameroon,Central Africa,225.9,627,521,756,806,725,884,3.4
+COD,Democratic Republic of the Congo,Central Africa,27.64,608,503,737,787,707,865,0.4
+COG,Republic of the Congo,Central Africa,716.12,673,565,804,852,769,934,9.9
+COM,Comoros,East Africa,642.86,666,559,796,845,762,927,9.0
+CPV,Cabo Verde,West Africa,461.54,649,543,779,829,746,908,6.6
+DJI,Djibouti,East Africa,450.0,648,542,777,827,745,907,6.5
+DZA,Algeria,North Africa,632.94,665,557,795,845,762,925,8.9
+EGY,Egypt,North Africa,563.23,658,551,788,838,755,918,8.0
+ERI,Eritrea,East Africa,577.78,660,552,790,839,757,920,8.2
+ETH,Ethiopia,East Africa,23.08,607,502,736,787,706,865,0.4
+GAB,Gabon,Central Africa,523.08,655,548,785,834,751,914,7.4
+GHA,Ghana,West Africa,468.89,649,543,779,829,747,909,6.7
+GIN,Guinea,West Africa,181.14,622,517,752,802,721,880,2.7
+GMB,The Gambia,West Africa,666.67,668,561,799,848,765,930,9.3
+GNB,Guinea-Bissau,West Africa,625.0,664,558,795,844,761,924,8.8
+GNQ,Equatorial Guinea,Central Africa,644.3,666,560,797,846,762,926,9.0
+KEN,Kenya,East Africa,95.44,614,509,743,794,713,872,1.4
+LBR,Liberia,West Africa,315.79,635,529,764,815,733,893,4.6
+LBY,Libya,North Africa,826.83,683,575,816,863,778,946,11.3
+LSO,Lesotho,Southern Africa,20.83,607,502,736,787,706,865,0.3
+MAR,Morocco,North Africa,596.4,662,555,792,841,759,922,8.4
+MDG,Madagascar,East Africa,432.1,646,540,776,826,744,905,6.2
+MLI,Mali,West Africa,538.59,656,549,786,836,753,916,7.7
+MOZ,Mozambique,Southern Africa,129.36,617,512,747,797,716,876,2.0
+MRT,Mauritania,West Africa,512.08,654,547,784,833,751,913,7.3
+MUS,Mauritius,East Africa,642.23,666,559,797,845,762,926,9.0
+MWI,Malawi,Southern Africa,54.65,610,505,739,790,709,868,0.8
+NAM,Namibia,Southern Africa,48.78,610,505,739,789,709,868,0.7
+NER,Niger,West Africa,673.68,669,562,800,848,765,929,9.4
+NGA,Nigeria,West Africa,455.71,648,542,778,828,746,907,6.5
+RWA,Rwanda,East Africa,353.98,639,533,768,818,737,897,5.2
+SDN,Sudan,North Africa,153.69,620,515,748,799,719,878,2.3
+SEN,Senegal,West Africa,539.97,656,550,786,836,754,916,7.7
+SLE,Sierra Leone,West Africa,47.62,610,504,739,789,709,867,0.7
+SOM,Somalia,East Africa,511.63,653,547,783,833,751,913,7.3
+SSD,South Sudan,East Africa,642.86,666,558,797,845,762,926,9.0
+STP,Sao Tome and Principe,Central Africa,555.56,658,551,788,837,755,918,7.9
+SWZ,Eswatini,Southern Africa,131.15,617,512,747,797,717,876,2.0
+SYC,Seychelles,East Africa,555.56,658,551,788,837,755,917,7.9
+TCD,Chad,Central Africa,621.62,664,557,795,843,761,924,8.7
+TGO,Togo,West Africa,422.54,645,539,775,825,743,904,6.1
+TUN,Tunisia,North Africa,560.29,658,551,788,838,756,918,7.9
+TZA,Tanzania,East Africa,345.02,638,532,767,817,736,896,5.0
+UGA,Uganda,East Africa,58.52,610,506,740,790,710,868,0.9
+ZAF,South Africa,Southern Africa,699.29,671,563,802,851,767,932,9.7
+ZMB,Zambia,Southern Africa,119.68,616,511,746,796,715,874,1.8
+ZWE,Zimbabwe,Southern Africa,384.02,641,535,772,821,740,900,5.6

@@ -1,0 +1,55 @@
+iso3,country,bloc,housing,activity,evidence,epd,grid,index_equal_weights,rank_median,rank_p5,rank_p95
+EGY,Egypt,North Africa,0.5,1.0,1.0,1.0,1.0,0.9,1,1,13
+ZAF,South Africa,Southern Africa,1.0,1.0,1.0,0.0,1.0,0.8,2,1,3
+UGA,Uganda,East Africa,1.0,1.0,1.0,0.0,1.0,0.8,3,2,4
+GHA,Ghana,West Africa,1.0,1.0,1.0,0.0,1.0,0.8,4,2,5
+KEN,Kenya,East Africa,1.0,1.0,1.0,0.0,1.0,0.8,4,1,5
+CMR,Cameroon,Central Africa,0.5,1.0,1.0,0.0,1.0,0.7,8,7,15
+MAR,Morocco,North Africa,0.5,1.0,1.0,0.0,1.0,0.7,8,6,16
+NGA,Nigeria,West Africa,0.5,1.0,1.0,0.0,1.0,0.7,8,6,17
+SEN,Senegal,West Africa,1.0,1.0,0.5,0.0,1.0,0.7,9,6,12
+TZA,Tanzania,East Africa,1.0,1.0,0.5,0.0,1.0,0.7,9,5,14
+RWA,Rwanda,East Africa,1.0,1.0,0.5,0.0,1.0,0.7,10,7,13
+MDG,Madagascar,East Africa,1.0,1.0,0.0,0.0,1.0,0.6,14,8,20
+ZWE,Zimbabwe,Southern Africa,1.0,1.0,0.0,0.0,1.0,0.6,15,9,21
+COD,Democratic Republic of the Congo,Central Africa,1.0,1.0,0.0,0.0,1.0,0.6,16,11,21
+MWI,Malawi,Southern Africa,0.5,1.0,0.5,0.0,1.0,0.6,16,13,20
+NER,Niger,West Africa,1.0,1.0,0.0,0.0,1.0,0.6,16,11,20
+TUN,Tunisia,North Africa,0.5,1.0,0.5,0.0,1.0,0.6,16,12,21
+NAM,Namibia,Southern Africa,1.0,1.0,0.0,0.0,1.0,0.6,17,9,22
+ETH,Ethiopia,East Africa,0.5,0.5,1.0,0.0,1.0,0.6,18,9,33
+BFA,Burkina Faso,West Africa,0.5,0.5,1.0,0.0,1.0,0.6,19,10,33
+MOZ,Mozambique,Southern Africa,0.5,1.0,0.0,0.0,1.0,0.5,22,19,24
+MLI,Mali,West Africa,0.5,1.0,0.0,0.0,1.0,0.5,23,20,25
+TGO,Togo,West Africa,0.5,1.0,0.0,0.0,1.0,0.5,23,22,25
+ZMB,Zambia,Southern Africa,0.5,1.0,0.0,0.0,1.0,0.5,25,21,33
+AGO,Angola,Central Africa,0.5,1.0,0.0,0.0,1.0,0.5,26,24,27
+LBR,Liberia,West Africa,0.5,1.0,0.0,0.0,1.0,0.5,27,19,31
+BDI,Burundi,East Africa,0.5,1.0,0.0,0.0,1.0,0.5,28,25,29
+BEN,Benin,West Africa,0.5,1.0,0.0,0.0,1.0,0.5,29,26,30
+BWA,Botswana,Southern Africa,0.5,1.0,0.0,0.0,1.0,0.5,30,26,31
+COG,Republic of the Congo,Central Africa,0.5,1.0,0.0,0.0,1.0,0.5,31,26,34
+GAB,Gabon,Central Africa,0.5,1.0,0.0,0.0,1.0,0.5,31,27,33
+DZA,Algeria,North Africa,0.0,0.5,1.0,0.0,1.0,0.5,32,11,42
+DJI,Djibouti,East Africa,0.0,1.0,0.0,0.0,1.0,0.4,34,30,43
+CPV,Cabo Verde,West Africa,0.0,1.0,0.0,0.0,1.0,0.4,35,31,43
+SDN,Sudan,North Africa,0.0,0.5,0.5,0.0,1.0,0.4,35,17,43
+CIV,Cote d'Ivoire,West Africa,0.5,0.5,0.0,0.0,1.0,0.4,36,33,40
+COM,Comoros,East Africa,0.5,0.5,0.0,0.0,1.0,0.4,37,34,41
+GMB,The Gambia,West Africa,0.5,0.5,0.0,0.0,1.0,0.4,37,34,41
+LSO,Lesotho,Southern Africa,0.5,0.5,0.0,0.0,1.0,0.4,37,34,39
+TCD,Chad,Central Africa,0.5,0.5,0.0,0.0,1.0,0.4,37,34,40
+MRT,Mauritania,West Africa,0.5,0.5,0.0,0.0,1.0,0.4,39,33,41
+GIN,Guinea,West Africa,1.0,0.0,0.0,0.0,1.0,0.4,40,14,50
+SOM,Somalia,East Africa,0.0,0.5,0.0,0.0,1.0,0.3,45,42,50
+STP,Sao Tome and Principe,Central Africa,0.0,0.5,0.0,0.0,1.0,0.3,45,43,49
+SWZ,Eswatini,Southern Africa,0.0,0.5,0.0,0.0,1.0,0.3,46,44,50
+SYC,Seychelles,East Africa,0.0,0.5,0.0,0.0,1.0,0.3,46,43,50
+MUS,Mauritius,East Africa,0.0,0.5,0.0,0.0,1.0,0.3,47,42,51
+CAF,Central African Republic,Central Africa,0.0,0.5,0.0,0.0,1.0,0.3,48,42,51
+ERI,Eritrea,East Africa,0.0,0.5,0.0,0.0,1.0,0.3,49,44,50
+LBY,Libya,North Africa,0.0,0.5,0.0,0.0,1.0,0.3,49,42,51
+SLE,Sierra Leone,West Africa,0.5,0.0,0.0,0.0,1.0,0.3,51,39,51
+SSD,South Sudan,East Africa,0.0,0.0,0.0,0.0,1.0,0.2,52,52,54
+GNB,Guinea-Bissau,West Africa,0.0,0.0,0.0,0.0,1.0,0.2,53,52,54
+GNQ,Equatorial Guinea,Central Africa,0.0,0.0,0.0,0.0,1.0,0.2,53,52,54

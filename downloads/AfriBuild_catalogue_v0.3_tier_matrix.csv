@@ -1,0 +1,1135 @@
+material,material_code,iso3,country,bloc,tier,value,unit,ci95_low,ci95_high,source_id,note,local_studies_in_evidence_map,extraction_pending,catalogue_version
+Clinker (process only),BIN-CLK,AGO,Angola,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,BDI,Burundi,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,BEN,Benin,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,BFA,Burkina Faso,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,2,1,v0.3
+Clinker (process only),BIN-CLK,BWA,Botswana,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,CAF,Central African Republic,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,CIV,Cote d'Ivoire,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,CMR,Cameroon,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,1,1,v0.3
+Clinker (process only),BIN-CLK,COD,Democratic Republic of the Congo,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,COG,Republic of the Congo,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,COM,Comoros,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,CPV,Cabo Verde,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,DJI,Djibouti,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,DZA,Algeria,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,1,1,v0.3
+Clinker (process only),BIN-CLK,EGY,Egypt,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,ERI,Eritrea,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,ETH,Ethiopia,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,1,1,v0.3
+Clinker (process only),BIN-CLK,GAB,Gabon,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,GHA,Ghana,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,GIN,Guinea,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,GMB,The Gambia,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,GNB,Guinea-Bissau,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,GNQ,Equatorial Guinea,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,KEN,Kenya,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,1,1,v0.3
+Clinker (process only),BIN-CLK,LBR,Liberia,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,LBY,Libya,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,LSO,Lesotho,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MAR,Morocco,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MDG,Madagascar,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MLI,Mali,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MOZ,Mozambique,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MRT,Mauritania,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MUS,Mauritius,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,MWI,Malawi,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,1,1,v0.3
+Clinker (process only),BIN-CLK,NAM,Namibia,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,NER,Niger,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,NGA,Nigeria,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,RWA,Rwanda,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SDN,Sudan,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SEN,Senegal,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SLE,Sierra Leone,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SOM,Somalia,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SSD,South Sudan,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,STP,Sao Tome and Principe,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SWZ,Eswatini,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,SYC,Seychelles,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,TCD,Chad,Central Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,TGO,Togo,West Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,TUN,Tunisia,North Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,TZA,Tanzania,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,UGA,Uganda,East Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,ZAF,South Africa,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,8,1,v0.3
+Clinker (process only),BIN-CLK,ZMB,Zambia,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Clinker (process only),BIN-CLK,ZWE,Zimbabwe,Southern Africa,T4,520,kg CO2/t,253.8,1065.0,S03,IPCC Tier 1 process default; kiln fuel excluded,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,AGO,Angola,Central Africa,T2,802,kg CO2e/t,645.2,996.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,BDI,Burundi,East Africa,T2,802,kg CO2e/t,645.2,996.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,BEN,Benin,West Africa,T2,840,kg CO2e/t,675.8,1044.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,BFA,Burkina Faso,West Africa,T1,1060,kg CO2e/t,957.2,1174.0,S32,"cradle to gate incl. import transport, CO2 only; full text verified",2,0,v0.3
+Portland cement CEM I,BIN-CEM-I,BWA,Botswana,Southern Africa,T2,865,kg CO2e/t,695.9,1075.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,CAF,Central African Republic,Central Africa,T2,795,kg CO2e/t,639.6,988.1,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,CIV,Cote d'Ivoire,West Africa,T2,823,kg CO2e/t,662.1,1023.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,CMR,Cameroon,Central Africa,T2,806,kg CO2e/t,648.5,1002.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Portland cement CEM I,BIN-CEM-I,COD,Democratic Republic of the Congo,Central Africa,T2,787,kg CO2e/t,633.2,978.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,COG,Republic of the Congo,Central Africa,T2,852,kg CO2e/t,685.5,1059.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,COM,Comoros,East Africa,T2,845,kg CO2e/t,679.8,1050.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,CPV,Cabo Verde,West Africa,T2,829,kg CO2e/t,667.0,1030.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,DJI,Djibouti,East Africa,T2,827,kg CO2e/t,665.4,1028.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,DZA,Algeria,North Africa,T2,845,kg CO2e/t,679.8,1050.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Portland cement CEM I,BIN-CEM-I,EGY,Egypt,North Africa,T1,1130,kg CO2e/t,1020.0,1251.0,S30,"verified EPD, A1-A3",0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,ERI,Eritrea,East Africa,T2,839,kg CO2e/t,675.0,1043.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,ETH,Ethiopia,East Africa,T2,787,kg CO2e/t,633.2,978.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Portland cement CEM I,BIN-CEM-I,GAB,Gabon,Central Africa,T2,834,kg CO2e/t,671.0,1037.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,GHA,Ghana,West Africa,T2,829,kg CO2e/t,667.0,1030.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,GIN,Guinea,West Africa,T2,802,kg CO2e/t,645.2,996.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,GMB,The Gambia,West Africa,T2,848,kg CO2e/t,682.2,1054.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,GNB,Guinea-Bissau,West Africa,T2,844,kg CO2e/t,679.0,1049.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,GNQ,Equatorial Guinea,Central Africa,T2,846,kg CO2e/t,680.6,1052.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,KEN,Kenya,East Africa,T2,794,kg CO2e/t,638.8,986.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Portland cement CEM I,BIN-CEM-I,LBR,Liberia,West Africa,T2,815,kg CO2e/t,655.7,1013.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,LBY,Libya,North Africa,T2,863,kg CO2e/t,694.3,1073.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,LSO,Lesotho,Southern Africa,T2,787,kg CO2e/t,633.2,978.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MAR,Morocco,North Africa,T2,841,kg CO2e/t,676.6,1045.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MDG,Madagascar,East Africa,T2,826,kg CO2e/t,664.5,1027.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MLI,Mali,West Africa,T2,836,kg CO2e/t,672.6,1039.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MOZ,Mozambique,Southern Africa,T2,797,kg CO2e/t,641.2,990.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MRT,Mauritania,West Africa,T2,833,kg CO2e/t,670.2,1035.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MUS,Mauritius,East Africa,T2,845,kg CO2e/t,679.8,1050.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,MWI,Malawi,Southern Africa,T2,790,kg CO2e/t,635.6,981.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Portland cement CEM I,BIN-CEM-I,NAM,Namibia,Southern Africa,T2,789,kg CO2e/t,634.8,980.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,NER,Niger,West Africa,T2,848,kg CO2e/t,682.2,1054.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,NGA,Nigeria,West Africa,T2,828,kg CO2e/t,666.2,1029.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,RWA,Rwanda,East Africa,T2,818,kg CO2e/t,658.1,1017.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SDN,Sudan,North Africa,T2,799,kg CO2e/t,642.8,993.1,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SEN,Senegal,West Africa,T2,836,kg CO2e/t,672.6,1039.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SLE,Sierra Leone,West Africa,T2,789,kg CO2e/t,634.8,980.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SOM,Somalia,East Africa,T2,833,kg CO2e/t,670.2,1035.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SSD,South Sudan,East Africa,T2,845,kg CO2e/t,679.8,1050.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,STP,Sao Tome and Principe,Central Africa,T2,837,kg CO2e/t,673.4,1040.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SWZ,Eswatini,Southern Africa,T2,797,kg CO2e/t,641.2,990.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,SYC,Seychelles,East Africa,T2,837,kg CO2e/t,673.4,1040.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,TCD,Chad,Central Africa,T2,843,kg CO2e/t,678.2,1048.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,TGO,Togo,West Africa,T2,825,kg CO2e/t,663.7,1025.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,TUN,Tunisia,North Africa,T2,838,kg CO2e/t,674.2,1042.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,TZA,Tanzania,East Africa,T2,817,kg CO2e/t,657.3,1015.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,UGA,Uganda,East Africa,T2,790,kg CO2e/t,635.6,981.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,ZAF,South Africa,Southern Africa,T1,993,kg CO2e/t,896.7,1100.0,S35,"national inventory, full text verified",8,0,v0.3
+Portland cement CEM I,BIN-CEM-I,ZMB,Zambia,Southern Africa,T2,796,kg CO2e/t,640.4,989.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Portland cement CEM I,BIN-CEM-I,ZWE,Zimbabwe,Southern Africa,T2,821,kg CO2e/t,660.5,1020.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,AGO,Angola,Central Africa,T2,623,kg CO2e/t,501.2,774.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,BDI,Burundi,East Africa,T2,622,kg CO2e/t,500.4,773.1,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,BEN,Benin,West Africa,T2,661,kg CO2e/t,531.8,821.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,BFA,Burkina Faso,West Africa,T2,658,kg CO2e/t,529.4,817.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,2,1,v0.3
+Blended cement (average),BIN-CEM-II,BWA,Botswana,Southern Africa,T2,686,kg CO2e/t,551.9,852.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,CAF,Central African Republic,Central Africa,T2,616,kg CO2e/t,495.6,765.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,CIV,Cote d'Ivoire,West Africa,T2,643,kg CO2e/t,517.3,799.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,CMR,Cameroon,Central Africa,T2,627,kg CO2e/t,504.4,779.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Blended cement (average),BIN-CEM-II,COD,Democratic Republic of the Congo,Central Africa,T2,608,kg CO2e/t,489.2,755.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,COG,Republic of the Congo,Central Africa,T2,673,kg CO2e/t,541.5,836.5,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,COM,Comoros,East Africa,T2,666,kg CO2e/t,535.8,827.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,CPV,Cabo Verde,West Africa,T2,649,kg CO2e/t,522.1,806.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,DJI,Djibouti,East Africa,T2,648,kg CO2e/t,521.3,805.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,DZA,Algeria,North Africa,T2,665,kg CO2e/t,535.0,826.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Blended cement (average),BIN-CEM-II,EGY,Egypt,North Africa,T2,658,kg CO2e/t,529.4,817.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,ERI,Eritrea,East Africa,T2,660,kg CO2e/t,531.0,820.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,ETH,Ethiopia,East Africa,T2,607,kg CO2e/t,488.4,754.5,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Blended cement (average),BIN-CEM-II,GAB,Gabon,Central Africa,T2,655,kg CO2e/t,527.0,814.1,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,GHA,Ghana,West Africa,T2,649,kg CO2e/t,522.1,806.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,GIN,Guinea,West Africa,T2,622,kg CO2e/t,500.4,773.1,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,GMB,The Gambia,West Africa,T2,668,kg CO2e/t,537.4,830.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,GNB,Guinea-Bissau,West Africa,T2,664,kg CO2e/t,534.2,825.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,GNQ,Equatorial Guinea,Central Africa,T2,666,kg CO2e/t,535.8,827.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,KEN,Kenya,East Africa,T2,614,kg CO2e/t,494.0,763.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Blended cement (average),BIN-CEM-II,LBR,Liberia,West Africa,T2,635,kg CO2e/t,510.9,789.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,LBY,Libya,North Africa,T2,683,kg CO2e/t,549.5,848.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,LSO,Lesotho,Southern Africa,T2,607,kg CO2e/t,488.4,754.5,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MAR,Morocco,North Africa,T2,662,kg CO2e/t,532.6,822.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MDG,Madagascar,East Africa,T2,646,kg CO2e/t,519.7,802.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MLI,Mali,West Africa,T2,656,kg CO2e/t,527.8,815.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MOZ,Mozambique,Southern Africa,T2,617,kg CO2e/t,496.4,766.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MRT,Mauritania,West Africa,T2,654,kg CO2e/t,526.2,812.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MUS,Mauritius,East Africa,T2,666,kg CO2e/t,535.8,827.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,MWI,Malawi,Southern Africa,T2,610,kg CO2e/t,490.8,758.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,1,1,v0.3
+Blended cement (average),BIN-CEM-II,NAM,Namibia,Southern Africa,T2,610,kg CO2e/t,490.8,758.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,NER,Niger,West Africa,T2,669,kg CO2e/t,538.2,831.5,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,NGA,Nigeria,West Africa,T2,648,kg CO2e/t,521.3,805.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,RWA,Rwanda,East Africa,T2,639,kg CO2e/t,514.1,794.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SDN,Sudan,North Africa,T2,620,kg CO2e/t,498.8,770.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SEN,Senegal,West Africa,T2,656,kg CO2e/t,527.8,815.4,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SLE,Sierra Leone,West Africa,T2,610,kg CO2e/t,490.8,758.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SOM,Somalia,East Africa,T2,653,kg CO2e/t,525.4,811.6,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SSD,South Sudan,East Africa,T2,666,kg CO2e/t,535.8,827.8,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,STP,Sao Tome and Principe,Central Africa,T2,658,kg CO2e/t,529.4,817.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SWZ,Eswatini,Southern Africa,T2,617,kg CO2e/t,496.4,766.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,SYC,Seychelles,East Africa,T2,658,kg CO2e/t,529.4,817.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,TCD,Chad,Central Africa,T2,664,kg CO2e/t,534.2,825.3,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,TGO,Togo,West Africa,T2,645,kg CO2e/t,518.9,801.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,TUN,Tunisia,North Africa,T2,658,kg CO2e/t,529.4,817.9,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,TZA,Tanzania,East Africa,T2,638,kg CO2e/t,513.3,793.0,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,UGA,Uganda,East Africa,T2,610,kg CO2e/t,490.8,758.2,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,ZAF,South Africa,Southern Africa,T1,706,kg CO2e/t,637.6,781.8,S35,CEM II/B-V; CEM II/B-L 856 and CEM III/A 641; full text verified,8,0,v0.3
+Blended cement (average),BIN-CEM-II,ZMB,Zambia,Southern Africa,T2,616,kg CO2e/t,495.6,765.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+Blended cement (average),BIN-CEM-II,ZWE,Zimbabwe,Southern Africa,T2,641,kg CO2e/t,515.7,796.7,S03;S09;S10;Ember,IPCC/IEA screening model with national grid intensity; see validation,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,AGO,Angola,Central Africa,T4,509,kg CO2e/t,248.4,1043.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,BDI,Burundi,East Africa,T4,509,kg CO2e/t,248.4,1043.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,BEN,Benin,West Africa,T4,533,kg CO2e/t,260.2,1092.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,BFA,Burkina Faso,West Africa,T4,531,kg CO2e/t,259.2,1088.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,1,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,BWA,Botswana,Southern Africa,T4,549,kg CO2e/t,268.0,1125.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,CAF,Central African Republic,Central Africa,T4,505,kg CO2e/t,246.5,1035.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,CIV,Cote d'Ivoire,West Africa,T4,523,kg CO2e/t,255.3,1071.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,CMR,Cameroon,Central Africa,T4,512,kg CO2e/t,249.9,1049.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,COD,Democratic Republic of the Congo,Central Africa,T4,500,kg CO2e/t,244.1,1024.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,COG,Republic of the Congo,Central Africa,T4,541,kg CO2e/t,264.1,1108.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,COM,Comoros,East Africa,T4,537,kg CO2e/t,262.1,1100.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,CPV,Cabo Verde,West Africa,T4,526,kg CO2e/t,256.7,1078.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,DJI,Djibouti,East Africa,T4,525,kg CO2e/t,256.3,1076.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,DZA,Algeria,North Africa,T4,537,kg CO2e/t,262.1,1100.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,1,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,EGY,Egypt,North Africa,T4,532,kg CO2e/t,259.7,1090.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,1,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,ERI,Eritrea,East Africa,T4,533,kg CO2e/t,260.2,1092.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,ETH,Ethiopia,East Africa,T4,500,kg CO2e/t,244.1,1024.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GAB,Gabon,Central Africa,T4,530,kg CO2e/t,258.7,1086.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GHA,Ghana,West Africa,T4,526,kg CO2e/t,256.7,1078.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,2,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GIN,Guinea,West Africa,T4,509,kg CO2e/t,248.4,1043.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GMB,The Gambia,West Africa,T4,538,kg CO2e/t,262.6,1102.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GNB,Guinea-Bissau,West Africa,T4,536,kg CO2e/t,261.6,1098.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,GNQ,Equatorial Guinea,Central Africa,T4,537,kg CO2e/t,262.1,1100.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,KEN,Kenya,East Africa,T4,504,kg CO2e/t,246.0,1033.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,1,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,LBR,Liberia,West Africa,T4,518,kg CO2e/t,252.8,1061.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,LBY,Libya,North Africa,T4,548,kg CO2e/t,267.5,1123.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,LSO,Lesotho,Southern Africa,T4,500,kg CO2e/t,244.1,1024.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MAR,Morocco,North Africa,T4,534,kg CO2e/t,260.7,1094.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MDG,Madagascar,East Africa,T4,525,kg CO2e/t,256.3,1076.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MLI,Mali,West Africa,T4,531,kg CO2e/t,259.2,1088.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MOZ,Mozambique,Southern Africa,T4,506,kg CO2e/t,247.0,1037.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MRT,Mauritania,West Africa,T4,529,kg CO2e/t,258.2,1084.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MUS,Mauritius,East Africa,T4,537,kg CO2e/t,262.1,1100.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,MWI,Malawi,Southern Africa,T4,502,kg CO2e/t,245.0,1028.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,NAM,Namibia,Southern Africa,T4,501,kg CO2e/t,244.5,1026.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,NER,Niger,West Africa,T4,538,kg CO2e/t,262.6,1102.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,NGA,Nigeria,West Africa,T4,526,kg CO2e/t,256.7,1078.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,RWA,Rwanda,East Africa,T4,519,kg CO2e/t,253.3,1063.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SDN,Sudan,North Africa,T4,507,kg CO2e/t,247.5,1039.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SEN,Senegal,West Africa,T4,531,kg CO2e/t,259.2,1088.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SLE,Sierra Leone,West Africa,T4,501,kg CO2e/t,244.5,1026.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SOM,Somalia,East Africa,T4,529,kg CO2e/t,258.2,1084.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SSD,South Sudan,East Africa,T4,537,kg CO2e/t,262.1,1100.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,STP,Sao Tome and Principe,Central Africa,T4,531,kg CO2e/t,259.2,1088.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SWZ,Eswatini,Southern Africa,T4,506,kg CO2e/t,247.0,1037.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,SYC,Seychelles,East Africa,T4,531,kg CO2e/t,259.2,1088.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,TCD,Chad,Central Africa,T4,535,kg CO2e/t,261.1,1096.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,TGO,Togo,West Africa,T4,524,kg CO2e/t,255.8,1074.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,TUN,Tunisia,North Africa,T4,532,kg CO2e/t,259.7,1090.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,TZA,Tanzania,East Africa,T4,519,kg CO2e/t,253.3,1063.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,UGA,Uganda,East Africa,T4,502,kg CO2e/t,245.0,1028.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,ZAF,South Africa,Southern Africa,T4,540,kg CO2e/t,263.6,1106.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,3,1,v0.3
+LC3 / calcined-clay cement,BIN-LC3,ZMB,Zambia,Southern Africa,T4,505,kg CO2e/t,246.5,1035.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+LC3 / calcined-clay cement,BIN-LC3,ZWE,Zimbabwe,Southern Africa,T4,521,kg CO2e/t,254.3,1067.0,S34;S03;S09;S10,literature reduction of 30-40% (midpoint 36.5%) applied to the national CEM I screen,0,0,v0.3
+"Concrete, normal strength",CON-RMX,AGO,Angola,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,BDI,Burundi,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,BEN,Benin,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,BFA,Burkina Faso,West Africa,T1,240,kg CO2e/m3,216.7,265.8,S33,"normal concrete; lean 159, structural 323; full text verified",2,0,v0.3
+"Concrete, normal strength",CON-RMX,BWA,Botswana,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,CAF,Central African Republic,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,CIV,Cote d'Ivoire,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,CMR,Cameroon,Central Africa,T1,427,kg CO2e/m3,385.6,472.8,S40,"ready-mix, 18 plants; not yet verified",1,0,v0.3
+"Concrete, normal strength",CON-RMX,COD,Democratic Republic of the Congo,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,COG,Republic of the Congo,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,COM,Comoros,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,CPV,Cabo Verde,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,DJI,Djibouti,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,DZA,Algeria,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,EGY,Egypt,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",1,1,v0.3
+"Concrete, normal strength",CON-RMX,ERI,Eritrea,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,ETH,Ethiopia,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",1,1,v0.3
+"Concrete, normal strength",CON-RMX,GAB,Gabon,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,GHA,Ghana,West Africa,T2,399,kg CO2e/m3,321.0,495.9,S47,Ghanaian mix with foreign material factors; 222 with 50% calcined-clay pozzolan,4,1,v0.3
+"Concrete, normal strength",CON-RMX,GIN,Guinea,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,GMB,The Gambia,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,GNB,Guinea-Bissau,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,GNQ,Equatorial Guinea,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,KEN,Kenya,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,LBR,Liberia,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,LBY,Libya,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,LSO,Lesotho,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MAR,Morocco,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",1,1,v0.3
+"Concrete, normal strength",CON-RMX,MDG,Madagascar,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MLI,Mali,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MOZ,Mozambique,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MRT,Mauritania,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MUS,Mauritius,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,MWI,Malawi,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,NAM,Namibia,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,NER,Niger,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,NGA,Nigeria,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",2,1,v0.3
+"Concrete, normal strength",CON-RMX,RWA,Rwanda,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SDN,Sudan,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SEN,Senegal,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SLE,Sierra Leone,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SOM,Somalia,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SSD,South Sudan,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,STP,Sao Tome and Principe,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SWZ,Eswatini,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,SYC,Seychelles,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,TCD,Chad,Central Africa,T3,427,kg CO2e/m3,282.6,645.2,S40,"proxy from Cameroon; ready-mix, 18 plants; not yet verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,TGO,Togo,West Africa,T3,240,kg CO2e/m3,158.8,362.6,S33,"proxy from Burkina Faso; normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,TUN,Tunisia,North Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,TZA,Tanzania,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,UGA,Uganda,East Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,ZAF,South Africa,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",3,1,v0.3
+"Concrete, normal strength",CON-RMX,ZMB,Zambia,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+"Concrete, normal strength",CON-RMX,ZWE,Zimbabwe,Southern Africa,T4,240,kg CO2e/m3,117.1,491.7,S33,"proxy from Burkina Faso (other bloc; continental default); normal concrete; lean 159, structural 323; full text verified",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,AGO,Angola,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,BDI,Burundi,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,BEN,Benin,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,BFA,Burkina Faso,West Africa,T1,0.1353,kg CO2e/kg,0.1222,0.1498,S33,"concrete block, A1-A3",1,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,BWA,Botswana,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,CAF,Central African Republic,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,CIV,Cote d'Ivoire,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,CMR,Cameroon,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",1,1,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,COD,Democratic Republic of the Congo,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,COG,Republic of the Congo,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,COM,Comoros,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,CPV,Cabo Verde,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,DJI,Djibouti,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,DZA,Algeria,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,EGY,Egypt,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,ERI,Eritrea,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,ETH,Ethiopia,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",1,1,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GAB,Gabon,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GHA,Ghana,West Africa,T2,0.0336,kg CO2e/kg,0.02703,0.04176,S11,"sandcrete 1:16, A1-A4; local mix with ICE (UK) material factors",1,1,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GIN,Guinea,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GMB,The Gambia,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GNB,Guinea-Bissau,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,GNQ,Equatorial Guinea,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,KEN,Kenya,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,LBR,Liberia,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,LBY,Libya,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,LSO,Lesotho,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MAR,Morocco,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MDG,Madagascar,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MLI,Mali,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MOZ,Mozambique,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MRT,Mauritania,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MUS,Mauritius,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,MWI,Malawi,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",1,1,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,NAM,Namibia,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,NER,Niger,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,NGA,Nigeria,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",2,1,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,RWA,Rwanda,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SDN,Sudan,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SEN,Senegal,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SLE,Sierra Leone,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SOM,Somalia,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SSD,South Sudan,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,STP,Sao Tome and Principe,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SWZ,Eswatini,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,SYC,Seychelles,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,TCD,Chad,Central Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,TGO,Togo,West Africa,T3,0.1353,kg CO2e/kg,0.08954,0.2044,S33,"proxy from Burkina Faso; concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,TUN,Tunisia,North Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,TZA,Tanzania,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,UGA,Uganda,East Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,ZAF,South Africa,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,ZMB,Zambia,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+Cement block (sandcrete/concrete),MAS-SCB,ZWE,Zimbabwe,Southern Africa,T4,0.1353,kg CO2e/kg,0.06604,0.2772,S33,"proxy from Burkina Faso (other bloc; continental default); concrete block, A1-A3",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,AGO,Angola,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,BDI,Burundi,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,BEN,Benin,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,BFA,Burkina Faso,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,BWA,Botswana,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,CAF,Central African Republic,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,CIV,Cote d'Ivoire,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,CMR,Cameroon,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,COD,Democratic Republic of the Congo,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,COG,Republic of the Congo,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,COM,Comoros,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,CPV,Cabo Verde,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,DJI,Djibouti,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,DZA,Algeria,North Africa,T3,2.0,kg CO2e/kg,1.324,3.022,S36,"proxy from Egypt; published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,EGY,Egypt,North Africa,T1,2.0,kg CO2e/kg,1.806,2.215,S36,"published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",3,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,ERI,Eritrea,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,ETH,Ethiopia,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GAB,Gabon,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GHA,Ghana,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GIN,Guinea,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GMB,The Gambia,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GNB,Guinea-Bissau,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,GNQ,Equatorial Guinea,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,KEN,Kenya,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,LBR,Liberia,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,LBY,Libya,North Africa,T3,2.0,kg CO2e/kg,1.324,3.022,S36,"proxy from Egypt; published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,LSO,Lesotho,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MAR,Morocco,North Africa,T3,2.0,kg CO2e/kg,1.324,3.022,S36,"proxy from Egypt; published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MDG,Madagascar,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MLI,Mali,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MOZ,Mozambique,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MRT,Mauritania,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MUS,Mauritius,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,MWI,Malawi,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,NAM,Namibia,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,NER,Niger,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,NGA,Nigeria,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",3,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,RWA,Rwanda,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SDN,Sudan,North Africa,T3,2.0,kg CO2e/kg,1.324,3.022,S36,"proxy from Egypt; published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SEN,Senegal,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SLE,Sierra Leone,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SOM,Somalia,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SSD,South Sudan,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,STP,Sao Tome and Principe,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SWZ,Eswatini,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,SYC,Seychelles,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,TCD,Chad,Central Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,TGO,Togo,West Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,TUN,Tunisia,North Africa,T3,2.0,kg CO2e/kg,1.324,3.022,S36,"proxy from Egypt; published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,TZA,Tanzania,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",1,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,UGA,Uganda,East Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",3,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,ZAF,South Africa,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",3,1,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,ZMB,Zambia,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, industrial",MAS-BRK-F,ZWE,Zimbabwe,Southern Africa,T4,2.0,kg CO2e/kg,0.9762,4.097,S36,"proxy from Egypt (other bloc; continental default); published as 5,907 kg CO2e per 1000 bricks incl. transport and disposal; per-kg value assumes 2.5-3 kg per brick; heavy-oil kilns",0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,AGO,Angola,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,BDI,Burundi,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,BEN,Benin,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,BFA,Burkina Faso,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,BWA,Botswana,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,CAF,Central African Republic,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,CIV,Cote d'Ivoire,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,CMR,Cameroon,Central Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,COD,Democratic Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,COG,Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,COM,Comoros,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,CPV,Cabo Verde,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,DJI,Djibouti,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,DZA,Algeria,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,EGY,Egypt,North Africa,T0,,,,,,no admissible open value,3,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,ERI,Eritrea,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,ETH,Ethiopia,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GAB,Gabon,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GHA,Ghana,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GIN,Guinea,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GMB,The Gambia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GNB,Guinea-Bissau,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,GNQ,Equatorial Guinea,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,KEN,Kenya,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,LBR,Liberia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,LBY,Libya,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,LSO,Lesotho,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MAR,Morocco,North Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MDG,Madagascar,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MLI,Mali,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MOZ,Mozambique,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MRT,Mauritania,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MUS,Mauritius,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,MWI,Malawi,Southern Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,NAM,Namibia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,NER,Niger,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,NGA,Nigeria,West Africa,T0,,,,,,no admissible open value,3,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,RWA,Rwanda,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SDN,Sudan,North Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SEN,Senegal,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SLE,Sierra Leone,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SOM,Somalia,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SSD,South Sudan,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,STP,Sao Tome and Principe,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SWZ,Eswatini,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,SYC,Seychelles,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,TCD,Chad,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,TGO,Togo,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,TUN,Tunisia,North Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,TZA,Tanzania,East Africa,T0,,,,,,no admissible open value,1,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,UGA,Uganda,East Africa,T0,,,,,,no admissible open value,3,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,ZAF,South Africa,Southern Africa,T0,,,,,,no admissible open value,3,1,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,ZMB,Zambia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+"Fired clay brick, artisanal",MAS-BRK-A,ZWE,Zimbabwe,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,AGO,Angola,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,BDI,Burundi,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,BEN,Benin,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,BFA,Burkina Faso,West Africa,T1,0.01351,kg CO2e/kg,0.0122,0.01496,S33,cut lateritic brick,1,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,BWA,Botswana,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,CAF,Central African Republic,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,CIV,Cote d'Ivoire,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,CMR,Cameroon,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,COD,Democratic Republic of the Congo,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,COG,Republic of the Congo,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,COM,Comoros,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,CPV,Cabo Verde,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,DJI,Djibouti,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,DZA,Algeria,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,EGY,Egypt,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,ERI,Eritrea,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,ETH,Ethiopia,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,GAB,Gabon,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,GHA,Ghana,West Africa,T2,0.0505,kg CO2e/kg,0.04063,0.06277,S11,"cement-stabilised laterite, A1-A4; local mix with ICE (UK) material factors",1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,GIN,Guinea,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,GMB,The Gambia,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,GNB,Guinea-Bissau,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,GNQ,Equatorial Guinea,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,KEN,Kenya,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,LBR,Liberia,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,LBY,Libya,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,LSO,Lesotho,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MAR,Morocco,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,MDG,Madagascar,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MLI,Mali,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MOZ,Mozambique,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MRT,Mauritania,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MUS,Mauritius,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,MWI,Malawi,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,NAM,Namibia,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,NER,Niger,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,NGA,Nigeria,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,1,1,v0.3
+Stabilised earth / laterite block,MAS-CEB,RWA,Rwanda,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SDN,Sudan,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SEN,Senegal,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SLE,Sierra Leone,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SOM,Somalia,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SSD,South Sudan,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,STP,Sao Tome and Principe,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SWZ,Eswatini,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,SYC,Seychelles,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,TCD,Chad,Central Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,TGO,Togo,West Africa,T3,0.01351,kg CO2e/kg,0.008941,0.02041,S33,proxy from Burkina Faso; cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,TUN,Tunisia,North Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,TZA,Tanzania,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,UGA,Uganda,East Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,ZAF,South Africa,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,ZMB,Zambia,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Stabilised earth / laterite block,MAS-CEB,ZWE,Zimbabwe,Southern Africa,T4,0.01351,kg CO2e/kg,0.006594,0.02768,S33,proxy from Burkina Faso (other bloc; continental default); cut lateritic brick,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,AGO,Angola,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,BDI,Burundi,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,BEN,Benin,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,BFA,Burkina Faso,West Africa,T1,0.006121,kg CO2e/kg,0.005528,0.006778,S33,adobe + 4% straw,1,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,BWA,Botswana,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,CAF,Central African Republic,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,CIV,Cote d'Ivoire,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,CMR,Cameroon,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,COD,Democratic Republic of the Congo,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,COG,Republic of the Congo,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,COM,Comoros,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,CPV,Cabo Verde,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,DJI,Djibouti,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,DZA,Algeria,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,EGY,Egypt,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,ERI,Eritrea,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,ETH,Ethiopia,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GAB,Gabon,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GHA,Ghana,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GIN,Guinea,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GMB,The Gambia,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GNB,Guinea-Bissau,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,GNQ,Equatorial Guinea,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,KEN,Kenya,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,LBR,Liberia,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,LBY,Libya,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,LSO,Lesotho,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MAR,Morocco,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MDG,Madagascar,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MLI,Mali,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MOZ,Mozambique,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MRT,Mauritania,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MUS,Mauritius,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,MWI,Malawi,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,NAM,Namibia,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,NER,Niger,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,NGA,Nigeria,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,1,1,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,RWA,Rwanda,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SDN,Sudan,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SEN,Senegal,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SLE,Sierra Leone,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SOM,Somalia,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SSD,South Sudan,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,STP,Sao Tome and Principe,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SWZ,Eswatini,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,SYC,Seychelles,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,TCD,Chad,Central Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,TGO,Togo,West Africa,T3,0.006121,kg CO2e/kg,0.004051,0.009249,S33,proxy from Burkina Faso; adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,TUN,Tunisia,North Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,TZA,Tanzania,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,UGA,Uganda,East Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,ZAF,South Africa,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,ZMB,Zambia,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Adobe (unstabilised earth),MAS-BRK-U,ZWE,Zimbabwe,Southern Africa,T4,0.006121,kg CO2e/kg,0.002988,0.01254,S33,proxy from Burkina Faso (other bloc; continental default); adobe + 4% straw,0,0,v0.3
+Reinforcing steel bar,MET-REB,AGO,Angola,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,BDI,Burundi,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,BEN,Benin,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,BFA,Burkina Faso,West Africa,T1,1.97,kg CO2e/kg,1.779,2.182,S32,import-based,1,0,v0.3
+Reinforcing steel bar,MET-REB,BWA,Botswana,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,CAF,Central African Republic,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,CIV,Cote d'Ivoire,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,CMR,Cameroon,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,COD,Democratic Republic of the Congo,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,COG,Republic of the Congo,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,COM,Comoros,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,CPV,Cabo Verde,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,DJI,Djibouti,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,DZA,Algeria,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,EGY,Egypt,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,ERI,Eritrea,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,ETH,Ethiopia,East Africa,T1,0.467,kg CO2e/kg,0.4217,0.5171,S46,"scrap-based rebar, plant inventory; functional unit read as 1 t, to confirm",3,0,v0.3
+Reinforcing steel bar,MET-REB,GAB,Gabon,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,GHA,Ghana,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,1,1,v0.3
+Reinforcing steel bar,MET-REB,GIN,Guinea,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,GMB,The Gambia,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,GNB,Guinea-Bissau,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,GNQ,Equatorial Guinea,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,KEN,Kenya,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,LBR,Liberia,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,LBY,Libya,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,LSO,Lesotho,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MAR,Morocco,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MDG,Madagascar,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MLI,Mali,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MOZ,Mozambique,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MRT,Mauritania,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MUS,Mauritius,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,MWI,Malawi,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,NAM,Namibia,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,NER,Niger,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,NGA,Nigeria,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,3,1,v0.3
+Reinforcing steel bar,MET-REB,RWA,Rwanda,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SDN,Sudan,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SEN,Senegal,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SLE,Sierra Leone,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SOM,Somalia,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SSD,South Sudan,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,STP,Sao Tome and Principe,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SWZ,Eswatini,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,SYC,Seychelles,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,TCD,Chad,Central Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,TGO,Togo,West Africa,T3,1.97,kg CO2e/kg,1.304,2.977,S32,proxy from Burkina Faso; import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,TUN,Tunisia,North Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,TZA,Tanzania,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,UGA,Uganda,East Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,ZAF,South Africa,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,1,1,v0.3
+Reinforcing steel bar,MET-REB,ZMB,Zambia,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Reinforcing steel bar,MET-REB,ZWE,Zimbabwe,Southern Africa,T4,1.97,kg CO2e/kg,0.9616,4.036,S32,proxy from Burkina Faso (other bloc; continental default); import-based,0,0,v0.3
+Structural steel sections,MET-SEC,AGO,Angola,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,BDI,Burundi,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,BEN,Benin,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,BFA,Burkina Faso,West Africa,T0,,,,,,no admissible open value,1,1,v0.3
+Structural steel sections,MET-SEC,BWA,Botswana,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,CAF,Central African Republic,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,CIV,Cote d'Ivoire,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,CMR,Cameroon,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,COD,Democratic Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,COG,Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,COM,Comoros,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,CPV,Cabo Verde,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,DJI,Djibouti,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,DZA,Algeria,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,EGY,Egypt,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,ERI,Eritrea,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,ETH,Ethiopia,East Africa,T0,,,,,,no admissible open value,3,1,v0.3
+Structural steel sections,MET-SEC,GAB,Gabon,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,GHA,Ghana,West Africa,T0,,,,,,no admissible open value,1,1,v0.3
+Structural steel sections,MET-SEC,GIN,Guinea,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,GMB,The Gambia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,GNB,Guinea-Bissau,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,GNQ,Equatorial Guinea,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,KEN,Kenya,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,LBR,Liberia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,LBY,Libya,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,LSO,Lesotho,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MAR,Morocco,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MDG,Madagascar,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MLI,Mali,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MOZ,Mozambique,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MRT,Mauritania,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MUS,Mauritius,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,MWI,Malawi,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,NAM,Namibia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,NER,Niger,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,NGA,Nigeria,West Africa,T0,,,,,,no admissible open value,3,1,v0.3
+Structural steel sections,MET-SEC,RWA,Rwanda,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SDN,Sudan,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SEN,Senegal,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SLE,Sierra Leone,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SOM,Somalia,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SSD,South Sudan,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,STP,Sao Tome and Principe,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SWZ,Eswatini,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,SYC,Seychelles,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,TCD,Chad,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,TGO,Togo,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,TUN,Tunisia,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,TZA,Tanzania,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,UGA,Uganda,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,ZAF,South Africa,Southern Africa,T0,,,,,,no admissible open value,1,1,v0.3
+Structural steel sections,MET-SEC,ZMB,Zambia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Structural steel sections,MET-SEC,ZWE,Zimbabwe,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+Steel roofing sheet,MET-CGI,AGO,Angola,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,BDI,Burundi,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,BEN,Benin,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,BFA,Burkina Faso,West Africa,T1,3.21,kg CO2e/kg,2.899,3.555,S33,painted steel sheet,1,0,v0.3
+Steel roofing sheet,MET-CGI,BWA,Botswana,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,CAF,Central African Republic,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,CIV,Cote d'Ivoire,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,CMR,Cameroon,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,COD,Democratic Republic of the Congo,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,COG,Republic of the Congo,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,COM,Comoros,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,CPV,Cabo Verde,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,DJI,Djibouti,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,DZA,Algeria,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,EGY,Egypt,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,ERI,Eritrea,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,ETH,Ethiopia,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,3,1,v0.3
+Steel roofing sheet,MET-CGI,GAB,Gabon,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,GHA,Ghana,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,1,1,v0.3
+Steel roofing sheet,MET-CGI,GIN,Guinea,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,GMB,The Gambia,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,GNB,Guinea-Bissau,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,GNQ,Equatorial Guinea,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,KEN,Kenya,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,LBR,Liberia,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,LBY,Libya,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,LSO,Lesotho,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MAR,Morocco,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MDG,Madagascar,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MLI,Mali,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MOZ,Mozambique,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MRT,Mauritania,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MUS,Mauritius,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,MWI,Malawi,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,NAM,Namibia,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,NER,Niger,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,NGA,Nigeria,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,3,1,v0.3
+Steel roofing sheet,MET-CGI,RWA,Rwanda,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SDN,Sudan,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SEN,Senegal,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SLE,Sierra Leone,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SOM,Somalia,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SSD,South Sudan,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,STP,Sao Tome and Principe,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SWZ,Eswatini,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,SYC,Seychelles,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,TCD,Chad,Central Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,TGO,Togo,West Africa,T3,3.21,kg CO2e/kg,2.124,4.85,S33,proxy from Burkina Faso; painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,TUN,Tunisia,North Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,TZA,Tanzania,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,UGA,Uganda,East Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,ZAF,South Africa,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,1,1,v0.3
+Steel roofing sheet,MET-CGI,ZMB,Zambia,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Steel roofing sheet,MET-CGI,ZWE,Zimbabwe,Southern Africa,T4,3.21,kg CO2e/kg,1.567,6.576,S33,proxy from Burkina Faso (other bloc; continental default); painted steel sheet,0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,AGO,Angola,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,BDI,Burundi,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,BEN,Benin,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,BFA,Burkina Faso,West Africa,T1,12.804,kg CO2e/kg,11.56,14.18,S32,primary metal; 2.5 with high recycled content (S33),1,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,BWA,Botswana,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,CAF,Central African Republic,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,CIV,Cote d'Ivoire,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,CMR,Cameroon,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,COD,Democratic Republic of the Congo,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,COG,Republic of the Congo,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,COM,Comoros,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,CPV,Cabo Verde,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,DJI,Djibouti,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,DZA,Algeria,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,EGY,Egypt,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,ERI,Eritrea,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,ETH,Ethiopia,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GAB,Gabon,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GHA,Ghana,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GIN,Guinea,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GMB,The Gambia,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GNB,Guinea-Bissau,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,GNQ,Equatorial Guinea,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,KEN,Kenya,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,LBR,Liberia,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,LBY,Libya,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,LSO,Lesotho,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MAR,Morocco,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MDG,Madagascar,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MLI,Mali,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MOZ,Mozambique,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MRT,Mauritania,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MUS,Mauritius,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,MWI,Malawi,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,NAM,Namibia,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,NER,Niger,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,NGA,Nigeria,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),1,1,v0.3
+Aluminium sheet and frames,MET-ALU-SH,RWA,Rwanda,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SDN,Sudan,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SEN,Senegal,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SLE,Sierra Leone,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SOM,Somalia,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SSD,South Sudan,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,STP,Sao Tome and Principe,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SWZ,Eswatini,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,SYC,Seychelles,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,TCD,Chad,Central Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,TGO,Togo,West Africa,T3,12.804,kg CO2e/kg,8.474,19.35,S32,proxy from Burkina Faso; primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,TUN,Tunisia,North Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,TZA,Tanzania,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,UGA,Uganda,East Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,ZAF,South Africa,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,ZMB,Zambia,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Aluminium sheet and frames,MET-ALU-SH,ZWE,Zimbabwe,Southern Africa,T4,12.804,kg CO2e/kg,6.25,26.23,S32,proxy from Burkina Faso (other bloc; continental default); primary metal; 2.5 with high recycled content (S33),0,0,v0.3
+Flat glass,GLA-FLT,AGO,Angola,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,BDI,Burundi,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,BEN,Benin,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,BFA,Burkina Faso,West Africa,T1,0.84,kg CO2e/kg,0.7586,0.9302,S32,,1,0,v0.3
+Flat glass,GLA-FLT,BWA,Botswana,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,CAF,Central African Republic,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,CIV,Cote d'Ivoire,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,CMR,Cameroon,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,COD,Democratic Republic of the Congo,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,COG,Republic of the Congo,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,COM,Comoros,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,CPV,Cabo Verde,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,DJI,Djibouti,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,DZA,Algeria,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,EGY,Egypt,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,ERI,Eritrea,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,ETH,Ethiopia,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,GAB,Gabon,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,GHA,Ghana,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,GIN,Guinea,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,GMB,The Gambia,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,GNB,Guinea-Bissau,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,GNQ,Equatorial Guinea,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,KEN,Kenya,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,LBR,Liberia,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,LBY,Libya,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,LSO,Lesotho,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,MAR,Morocco,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,MDG,Madagascar,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,MLI,Mali,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,MOZ,Mozambique,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,MRT,Mauritania,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,MUS,Mauritius,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,MWI,Malawi,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,NAM,Namibia,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,NER,Niger,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,NGA,Nigeria,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,1,1,v0.3
+Flat glass,GLA-FLT,RWA,Rwanda,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,SDN,Sudan,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,SEN,Senegal,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,SLE,Sierra Leone,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,SOM,Somalia,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,SSD,South Sudan,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,STP,Sao Tome and Principe,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,SWZ,Eswatini,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,SYC,Seychelles,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,TCD,Chad,Central Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,TGO,Togo,West Africa,T3,0.84,kg CO2e/kg,0.5559,1.269,S32,proxy from Burkina Faso,0,0,v0.3
+Flat glass,GLA-FLT,TUN,Tunisia,North Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,TZA,Tanzania,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,UGA,Uganda,East Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,ZAF,South Africa,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,ZMB,Zambia,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Flat glass,GLA-FLT,ZWE,Zimbabwe,Southern Africa,T4,0.84,kg CO2e/kg,0.41,1.721,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,AGO,Angola,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,BDI,Burundi,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,BEN,Benin,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,BFA,Burkina Faso,West Africa,T1,0.99,kg CO2e/kg,0.894,1.096,S32,,2,0,v0.3
+Ceramic tiles,CER-TIL,BWA,Botswana,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,CAF,Central African Republic,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,CIV,Cote d'Ivoire,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,CMR,Cameroon,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,COD,Democratic Republic of the Congo,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,COG,Republic of the Congo,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,COM,Comoros,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,CPV,Cabo Verde,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,DJI,Djibouti,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,DZA,Algeria,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,EGY,Egypt,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,ERI,Eritrea,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,ETH,Ethiopia,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,GAB,Gabon,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,GHA,Ghana,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,1,1,v0.3
+Ceramic tiles,CER-TIL,GIN,Guinea,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,GMB,The Gambia,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,GNB,Guinea-Bissau,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,GNQ,Equatorial Guinea,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,KEN,Kenya,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,LBR,Liberia,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,LBY,Libya,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,LSO,Lesotho,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,MAR,Morocco,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,MDG,Madagascar,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,MLI,Mali,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,MOZ,Mozambique,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,MRT,Mauritania,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,MUS,Mauritius,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,MWI,Malawi,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,NAM,Namibia,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,NER,Niger,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,NGA,Nigeria,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,RWA,Rwanda,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,SDN,Sudan,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,SEN,Senegal,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,SLE,Sierra Leone,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,SOM,Somalia,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,SSD,South Sudan,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,STP,Sao Tome and Principe,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,SWZ,Eswatini,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,SYC,Seychelles,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,TCD,Chad,Central Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,TGO,Togo,West Africa,T3,0.99,kg CO2e/kg,0.6552,1.496,S32,proxy from Burkina Faso,0,0,v0.3
+Ceramic tiles,CER-TIL,TUN,Tunisia,North Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,TZA,Tanzania,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,UGA,Uganda,East Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,ZAF,South Africa,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,ZMB,Zambia,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Ceramic tiles,CER-TIL,ZWE,Zimbabwe,Southern Africa,T4,0.99,kg CO2e/kg,0.4832,2.028,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,AGO,Angola,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,BDI,Burundi,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,BEN,Benin,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,BFA,Burkina Faso,West Africa,T1,2.5,kg CO2e/kg,2.258,2.768,S32,,2,0,v0.3
+Architectural paint,FIN-PNT,BWA,Botswana,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,CAF,Central African Republic,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,CIV,Cote d'Ivoire,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,CMR,Cameroon,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,COD,Democratic Republic of the Congo,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,COG,Republic of the Congo,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,COM,Comoros,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,CPV,Cabo Verde,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,DJI,Djibouti,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,DZA,Algeria,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,EGY,Egypt,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,ERI,Eritrea,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,ETH,Ethiopia,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,GAB,Gabon,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,GHA,Ghana,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,1,1,v0.3
+Architectural paint,FIN-PNT,GIN,Guinea,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,GMB,The Gambia,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,GNB,Guinea-Bissau,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,GNQ,Equatorial Guinea,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,KEN,Kenya,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,LBR,Liberia,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,LBY,Libya,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,LSO,Lesotho,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,MAR,Morocco,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,MDG,Madagascar,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,MLI,Mali,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,MOZ,Mozambique,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,MRT,Mauritania,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,MUS,Mauritius,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,MWI,Malawi,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,NAM,Namibia,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,NER,Niger,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,NGA,Nigeria,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,RWA,Rwanda,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,SDN,Sudan,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,SEN,Senegal,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,SLE,Sierra Leone,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,SOM,Somalia,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,SSD,South Sudan,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,STP,Sao Tome and Principe,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,SWZ,Eswatini,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,SYC,Seychelles,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,TCD,Chad,Central Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,TGO,Togo,West Africa,T3,2.5,kg CO2e/kg,1.654,3.778,S32,proxy from Burkina Faso,0,0,v0.3
+Architectural paint,FIN-PNT,TUN,Tunisia,North Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,TZA,Tanzania,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,UGA,Uganda,East Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,ZAF,South Africa,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,ZMB,Zambia,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Architectural paint,FIN-PNT,ZWE,Zimbabwe,Southern Africa,T4,2.5,kg CO2e/kg,1.22,5.122,S32,proxy from Burkina Faso (other bloc; continental default),0,0,v0.3
+Sawn timber,BIO-SAW,AGO,Angola,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,BDI,Burundi,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,BEN,Benin,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,BFA,Burkina Faso,West Africa,T1,0.16,kg CO2e/kg,0.1445,0.1772,S32,biogenic carbon not separated,1,0,v0.3
+Sawn timber,BIO-SAW,BWA,Botswana,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,CAF,Central African Republic,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,CIV,Cote d'Ivoire,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,CMR,Cameroon,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,COD,Democratic Republic of the Congo,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,COG,Republic of the Congo,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,COM,Comoros,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,CPV,Cabo Verde,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,DJI,Djibouti,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,DZA,Algeria,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,EGY,Egypt,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,ERI,Eritrea,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,ETH,Ethiopia,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,1,1,v0.3
+Sawn timber,BIO-SAW,GAB,Gabon,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,GHA,Ghana,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,2,1,v0.3
+Sawn timber,BIO-SAW,GIN,Guinea,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,GMB,The Gambia,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,GNB,Guinea-Bissau,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,GNQ,Equatorial Guinea,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,KEN,Kenya,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,2,1,v0.3
+Sawn timber,BIO-SAW,LBR,Liberia,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,LBY,Libya,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,LSO,Lesotho,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MAR,Morocco,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,2,1,v0.3
+Sawn timber,BIO-SAW,MDG,Madagascar,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MLI,Mali,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MOZ,Mozambique,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MRT,Mauritania,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MUS,Mauritius,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,MWI,Malawi,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,NAM,Namibia,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,NER,Niger,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,NGA,Nigeria,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,3,1,v0.3
+Sawn timber,BIO-SAW,RWA,Rwanda,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SDN,Sudan,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SEN,Senegal,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,1,1,v0.3
+Sawn timber,BIO-SAW,SLE,Sierra Leone,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SOM,Somalia,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SSD,South Sudan,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,STP,Sao Tome and Principe,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SWZ,Eswatini,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,SYC,Seychelles,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,TCD,Chad,Central Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,TGO,Togo,West Africa,T3,0.16,kg CO2e/kg,0.1059,0.2418,S32,proxy from Burkina Faso; biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,TUN,Tunisia,North Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,TZA,Tanzania,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,UGA,Uganda,East Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,1,1,v0.3
+Sawn timber,BIO-SAW,ZAF,South Africa,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,1,1,v0.3
+Sawn timber,BIO-SAW,ZMB,Zambia,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sawn timber,BIO-SAW,ZWE,Zimbabwe,Southern Africa,T4,0.16,kg CO2e/kg,0.0781,0.3278,S32,proxy from Burkina Faso (other bloc; continental default); biogenic carbon not separated,0,0,v0.3
+Sand and aggregates,AGG-CRU,AGO,Angola,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,BDI,Burundi,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,BEN,Benin,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,BFA,Burkina Faso,West Africa,T1,0.008,kg CO2e/kg,0.007224,0.008859,S32,aggregates; sand 0.0013,1,0,v0.3
+Sand and aggregates,AGG-CRU,BWA,Botswana,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,CAF,Central African Republic,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,CIV,Cote d'Ivoire,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,CMR,Cameroon,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,1,1,v0.3
+Sand and aggregates,AGG-CRU,COD,Democratic Republic of the Congo,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,COG,Republic of the Congo,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,COM,Comoros,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,CPV,Cabo Verde,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,DJI,Djibouti,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,DZA,Algeria,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,EGY,Egypt,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,ERI,Eritrea,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,ETH,Ethiopia,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,1,1,v0.3
+Sand and aggregates,AGG-CRU,GAB,Gabon,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,GHA,Ghana,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,GIN,Guinea,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,GMB,The Gambia,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,GNB,Guinea-Bissau,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,GNQ,Equatorial Guinea,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,KEN,Kenya,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,LBR,Liberia,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,LBY,Libya,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,LSO,Lesotho,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MAR,Morocco,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MDG,Madagascar,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MLI,Mali,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MOZ,Mozambique,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MRT,Mauritania,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MUS,Mauritius,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,MWI,Malawi,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,NAM,Namibia,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,NER,Niger,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,NGA,Nigeria,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,RWA,Rwanda,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SDN,Sudan,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SEN,Senegal,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SLE,Sierra Leone,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SOM,Somalia,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SSD,South Sudan,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,STP,Sao Tome and Principe,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SWZ,Eswatini,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,SYC,Seychelles,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,TCD,Chad,Central Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,TGO,Togo,West Africa,T3,0.008,kg CO2e/kg,0.005294,0.01209,S32,proxy from Burkina Faso; aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,TUN,Tunisia,North Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,TZA,Tanzania,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,UGA,Uganda,East Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,ZAF,South Africa,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,1,1,v0.3
+Sand and aggregates,AGG-CRU,ZMB,Zambia,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Sand and aggregates,AGG-CRU,ZWE,Zimbabwe,Southern Africa,T4,0.008,kg CO2e/kg,0.003905,0.01639,S32,proxy from Burkina Faso (other bloc; continental default); aggregates; sand 0.0013,0,0,v0.3
+Lime (process only),BIN-LIME-H,AGO,Angola,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,BDI,Burundi,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,BEN,Benin,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,BFA,Burkina Faso,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,BWA,Botswana,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,CAF,Central African Republic,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,CIV,Cote d'Ivoire,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,CMR,Cameroon,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,COD,Democratic Republic of the Congo,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,COG,Republic of the Congo,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,COM,Comoros,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,CPV,Cabo Verde,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,DJI,Djibouti,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,DZA,Algeria,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,EGY,Egypt,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,ERI,Eritrea,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,ETH,Ethiopia,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GAB,Gabon,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GHA,Ghana,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GIN,Guinea,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GMB,The Gambia,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GNB,Guinea-Bissau,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,GNQ,Equatorial Guinea,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,KEN,Kenya,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,LBR,Liberia,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,LBY,Libya,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,LSO,Lesotho,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MAR,Morocco,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MDG,Madagascar,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MLI,Mali,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MOZ,Mozambique,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MRT,Mauritania,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MUS,Mauritius,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,MWI,Malawi,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,NAM,Namibia,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,NER,Niger,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,NGA,Nigeria,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,RWA,Rwanda,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SDN,Sudan,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SEN,Senegal,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SLE,Sierra Leone,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SOM,Somalia,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SSD,South Sudan,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,STP,Sao Tome and Principe,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SWZ,Eswatini,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,SYC,Seychelles,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,TCD,Chad,Central Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,TGO,Togo,West Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,TUN,Tunisia,North Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,TZA,Tanzania,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,UGA,Uganda,East Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,ZAF,South Africa,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,ZMB,Zambia,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+Lime (process only),BIN-LIME-H,ZWE,Zimbabwe,Southern Africa,T4,750,kg CO2/t,366.1,1537.0,S03,IPCC Tier 1 high-calcium lime process default,0,0,v0.3
+PVC pipe,PLS-PVC-P,AGO,Angola,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,BDI,Burundi,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,BEN,Benin,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,BFA,Burkina Faso,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,BWA,Botswana,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,CAF,Central African Republic,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,CIV,Cote d'Ivoire,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,CMR,Cameroon,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,COD,Democratic Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,COG,Republic of the Congo,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,COM,Comoros,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,CPV,Cabo Verde,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,DJI,Djibouti,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,DZA,Algeria,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,EGY,Egypt,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,ERI,Eritrea,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,ETH,Ethiopia,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GAB,Gabon,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GHA,Ghana,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GIN,Guinea,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GMB,The Gambia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GNB,Guinea-Bissau,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,GNQ,Equatorial Guinea,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,KEN,Kenya,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,LBR,Liberia,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,LBY,Libya,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,LSO,Lesotho,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MAR,Morocco,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MDG,Madagascar,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MLI,Mali,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MOZ,Mozambique,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MRT,Mauritania,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MUS,Mauritius,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,MWI,Malawi,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,NAM,Namibia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,NER,Niger,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,NGA,Nigeria,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,RWA,Rwanda,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SDN,Sudan,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SEN,Senegal,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SLE,Sierra Leone,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SOM,Somalia,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SSD,South Sudan,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,STP,Sao Tome and Principe,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SWZ,Eswatini,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,SYC,Seychelles,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,TCD,Chad,Central Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,TGO,Togo,West Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,TUN,Tunisia,North Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,TZA,Tanzania,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,UGA,Uganda,East Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,ZAF,South Africa,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,ZMB,Zambia,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3
+PVC pipe,PLS-PVC-P,ZWE,Zimbabwe,Southern Africa,T0,,,,,,no admissible open value,0,0,v0.3

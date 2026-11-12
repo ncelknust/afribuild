@@ -1,0 +1,42 @@
+iso3,country,bloc,n_surveys,first_year,last_year,natural_first,natural_last,finished_last,cement_last,ceramic_last,natural_change_pp_per_decade
+AGO,Angola,Central Africa,4,2006,2023,51.8,48.3,51.2,34.9,15.9,-2.1
+BDI,Burundi,East Africa,3,2010,2016,88.9,83.5,15.3,13.9,1.4,-9.0
+BEN,Benin,West Africa,5,1996,2017,46.7,30.2,68.7,63.1,4.5,-7.9
+BFA,Burkina Faso,West Africa,7,1993,2021,69.8,21.6,78.3,68.7,9.4,-17.2
+CAF,Central African Republic,Central Africa,1,1994,1994,88.1,88.1,11.5,,,
+CIV,Cote d'Ivoire,West Africa,5,1994,2021,25.8,11.2,88.6,66.3,21.1,-5.4
+CMR,Cameroon,Central Africa,6,1991,2022,57.6,38.4,61.2,42.6,15.9,-6.2
+COD,Democratic Republic of the Congo,Central Africa,3,2007,2023,77.8,66.4,27.5,22.2,4.8,-7.1
+COG,Republic of the Congo,Central Africa,3,2005,2011,42,32.9,66.7,1.7,53.5,-15.2
+COM,Comoros,East Africa,2,1996,2012,49.8,29.6,69,44.8,12.5,-12.6
+EGY,Egypt,North Africa,7,1992,2014,31.5,4.7,94.8,20.5,39.2,-12.2
+ERI,Eritrea,East Africa,2,1995,2002,80.9,67.2,32.7,19.7,12.6,-19.6
+ETH,Ethiopia,East Africa,6,2000,2024,92.5,68.4,30.7,10.1,2.6,-10.0
+GAB,Gabon,Central Africa,3,2000,2019,22,7.8,91.2,43.9,40.8,-7.5
+GHA,Ghana,West Africa,8,1993,2022,14.5,8,84.4,60.8,17.1,-2.2
+GIN,Guinea,West Africa,5,1999,2021,56.6,30.1,68.7,53.6,13.6,-12.0
+GMB,The Gambia,West Africa,2,2013,2019,18.4,6.5,93.5,29.8,35.1,-19.8
+KEN,Kenya,East Africa,8,1993,2022,68.5,33.9,65.8,46.7,15,-11.9
+LBR,Liberia,West Africa,7,2007,2022,55,40.5,59.2,47.5,7.5,-9.7
+LSO,Lesotho,Southern Africa,4,2004,2023,40.5,17.8,81.7,40.1,19.6,-11.9
+MAR,Morocco,North Africa,2,1992,2003,28.9,16.4,78.9,0,0,-11.4
+MDG,Madagascar,East Africa,8,1992,2021,52.9,9.1,38.2,25.9,3,-15.1
+MLI,Mali,West Africa,8,1996,2023,79,32.3,66.8,53.6,12.9,-17.3
+MOZ,Mozambique,Southern Africa,7,1997,2022,79.8,62.6,35.7,31.5,3.8,-6.9
+MRT,Mauritania,West Africa,2,2000,2020,63.8,40,56.5,47.8,7.2,-11.9
+MWI,Malawi,Southern Africa,9,1992,2024,87.1,68.8,31.1,30.2,0.9,-5.7
+NAM,Namibia,Southern Africa,4,1992,2013,53.4,32,59.4,34.1,19.1,-10.2
+NER,Niger,West Africa,5,1992,2021,86.8,83.3,16.7,13.9,2.2,-1.2
+NGA,Nigeria,West Africa,8,2003,2024,33.9,22.2,77.4,53.3,19.6,-5.6
+RWA,Rwanda,East Africa,11,1992,2025,88.8,56.8,42.2,37,5.1,-9.7
+SEN,Senegal,West Africa,15,1993,2023,42.1,24.5,74.2,34.7,37.9,-5.9
+SLE,Sierra Leone,West Africa,4,2008,2019,60.7,44.3,55.5,44.3,8.3,-14.9
+STP,Sao Tome and Principe,Central Africa,1,2008,2008,2,2,28.9,,,
+SWZ,Eswatini,Southern Africa,1,2006,2006,11.2,11.2,88.5,80.3,4.8,
+TCD,Chad,Central Africa,3,1997,2014,96.4,89.1,8.6,5.7,0.2,-4.3
+TGO,Togo,West Africa,3,1998,2017,26.7,13.4,86.6,81.7,3.6,-7.0
+TZA,Tanzania,East Africa,11,1992,2022,79.8,46.4,51.3,42.9,6.7,-11.1
+UGA,Uganda,East Africa,11,1995,2024,84.6,51.6,46.7,40.1,5.5,-11.4
+ZAF,South Africa,Southern Africa,2,1998,2016,16,3.7,94.4,38.7,32.6,-6.8
+ZMB,Zambia,Southern Africa,7,1992,2024,52.6,42.8,56.9,51.1,5.2,-3.1
+ZWE,Zimbabwe,Southern Africa,5,1994,2015,41,25.2,74.2,67.4,5.2,-7.5

@@ -1,0 +1,98 @@
+[
+ {
+  "file": "AfriBuild_catalogue_v0.3_tier_matrix.csv",
+  "description": "Tiered catalogue: 21 materials in 54 countries, with tier, value, 95% interval and source",
+  "rows": 1134,
+  "bytes": 193009
+ },
+ {
+  "file": "AfriBuild_evidence_database.csv",
+  "description": "Evidence map: the included studies, coded by country, material and study type",
+  "rows": 79,
+  "bytes": 38470
+ },
+ {
+  "file": "AfriBuild_fulltext_extraction.csv",
+  "description": "Values, boundaries and background data read from full texts",
+  "rows": 29,
+  "bytes": 8886
+ },
+ {
+  "file": "AfriBuild_evidence_matrix.csv",
+  "description": "Studies per country and material family",
+  "rows": 54,
+  "bytes": 3285
+ },
+ {
+  "file": "AfriBuild_readiness_index.csv",
+  "description": "Data-readiness index: five dimensions, rank and rank range",
+  "rows": 54,
+  "bytes": 3382
+ },
+ {
+  "file": "AfriBuild_cement_co2_in_consumption.csv",
+  "description": "Cement-related CO2 embodied in consumption, by country",
+  "rows": 54,
+  "bytes": 6720
+ },
+ {
+  "file": "AfriBuild_cement_screening_factors.csv",
+  "description": "National cement screening factors with intervals",
+  "rows": 54,
+  "bytes": 3544
+ },
+ {
+  "file": "AfriBuild_grid_intensity.csv",
+  "description": "Grid carbon intensity, latest year, life-cycle basis",
+  "rows": 54,
+  "bytes": 7723
+ },
+ {
+  "file": "AfriBuild_housing_floors.csv",
+  "description": "Household floor materials: first and latest survey",
+  "rows": 41,
+  "bytes": 2958
+ },
+ {
+  "file": "GhaBuild_clinker_imports_by_year.csv",
+  "description": "Ghana clinker imports by year",
+  "rows": 14,
+  "bytes": 992
+ },
+ {
+  "file": "GhaBuild_clinker_imports_by_origin.csv",
+  "description": "Ghana clinker imports by origin and year",
+  "rows": 246,
+  "bytes": 13055
+ },
+ {
+  "file": "GhaBuild_cement_scenarios.csv",
+  "description": "Ghana cement scenarios",
+  "rows": 5,
+  "bytes": 361
+ },
+ {
+  "file": "GhaBuild_floor_material_by_region.csv",
+  "description": "Ghana floor material by region, 2022",
+  "rows": 16,
+  "bytes": 902
+ },
+ {
+  "file": "GhaBuild-EF_factors.csv",
+  "description": "Ghana factor table with formulae, pedigree and intervals",
+  "rows": 26,
+  "bytes": 23165
+ },
+ {
+  "file": "AfriBuild_source_register.csv",
+  "description": "Source register",
+  "rows": 47,
+  "bytes": 16577
+ },
+ {
+  "file": "study.json",
+  "description": "The application data bundle (everything the pages read)",
+  "rows": null,
+  "bytes": 223200
+ }
+]

@@ -1,0 +1,247 @@
+year,partner_code,partner,tonnes,value_usd,mass_basis
+2010,36,Australia,12,1032,estimated from value
+2010,40,Austria,17,1428,estimated from value
+2010,56,Belgium,45100,4121571,reported net weight
+2010,156,China,226117,19298644,reported net weight
+2010,360,Indonesia,134086,11355253,reported net weight
+2010,410,Rep. of Korea,20000,1702379,reported net weight
+2010,470,Malta,25000,2130488,reported net weight
+2010,490,"Other Asia, nes",381105,33526714,reported net weight
+2010,579,Norway,101589,8614661,reported net weight
+2010,724,Spain,17992,1634296,reported net weight
+2010,752,Sweden,225191,20226200,reported net weight
+2010,764,Thailand,39000,3558596,reported net weight
+2010,768,Togo,753888,59799519,reported net weight
+2010,784,United Arab Emirates,48957,3783802,reported net weight
+2010,792,Türkiye,149160,13139069,reported net weight
+2011,56,Belgium,86506,7212714,reported net weight
+2011,156,China,54220,4319413,reported net weight
+2011,360,Indonesia,66414,5491588,reported net weight
+2011,380,Italy,1,92,estimated from value
+2011,392,Japan,44017,3515994,reported net weight
+2011,408,Dem. People's Rep. of Korea,40000,3278052,reported net weight
+2011,410,Rep. of Korea,83300,6508507,reported net weight
+2011,490,"Other Asia, nes",251610,20344693,reported net weight
+2011,566,Nigeria,3,235,estimated from value
+2011,579,Norway,168188,13925434,reported net weight
+2011,608,Philippines,59260,4730691,reported net weight
+2011,620,Portugal,30153,2414741,reported net weight
+2011,710,South Africa,884,71515,estimated from value
+2011,724,Spain,61197,4814928,reported net weight
+2011,752,Sweden,278289,23018295,reported net weight
+2011,764,Thailand,176482,14270019,estimated from value
+2011,768,Togo,932356,77052394,reported net weight
+2011,784,United Arab Emirates,1610023,63211642,reported net weight
+2011,792,Türkiye,143830,11965836,reported net weight
+2012,56,Belgium,84910,7238631,reported net weight
+2012,156,China,22501,1524223,reported net weight
+2012,300,Greece,165763,13638100,reported net weight
+2012,392,Japan,41750,3310167,reported net weight
+2012,410,Rep. of Korea,13,1072,estimated from value
+2012,414,Kuwait,1,72,estimated from value
+2012,430,Liberia,4,359,estimated from value
+2012,490,"Other Asia, nes",579507,48013338,reported net weight
+2012,504,Morocco,81147,6951091,reported net weight
+2012,608,Philippines,20000,1417621,reported net weight
+2012,710,South Africa,2634,216302,estimated from value
+2012,724,Spain,162110,16304213,reported net weight
+2012,752,Sweden,351411,28799721,reported net weight
+2012,768,Togo,866830,71499516,reported net weight
+2012,784,United Arab Emirates,443784,31884043,reported net weight
+2012,792,Türkiye,655230,51465800,reported net weight
+2012,842,USA,1,59,estimated from value
+2013,56,Belgium,65038,5052752,reported net weight
+2013,100,Bulgaria,146875,11548326,reported net weight
+2013,156,China,25000,1974622,reported net weight
+2013,300,Greece,132304,10553283,reported net weight
+2013,380,Italy,8,597,estimated from value
+2013,440,Lithuania,26338,1988722,reported net weight
+2013,490,"Other Asia, nes",507580,39306137,reported net weight
+2013,504,Morocco,314316,24769168,reported net weight
+2013,579,Norway,20000,1504155,reported net weight
+2013,620,Portugal,16592,1308990,reported net weight
+2013,704,Viet Nam,43770,3432922,reported net weight
+2013,710,South Africa,745,58212,estimated from value
+2013,724,Spain,79632,6180519,reported net weight
+2013,752,Sweden,246756,19186612,reported net weight
+2013,768,Togo,970205,78571392,reported net weight
+2013,792,Türkiye,176250,13553947,reported net weight
+2013,842,USA,1,104,estimated from value
+2014,32,Argentina,28520,2021519,reported net weight
+2014,36,Australia,11,853,estimated from value
+2014,56,Belgium,151509,11416369,reported net weight
+2014,156,China,207351,16529338,reported net weight
+2014,208,Denmark,134148,9700909,reported net weight
+2014,300,Greece,1620723,124234610,estimated from value
+2014,360,Indonesia,22000,2042361,reported net weight
+2014,380,Italy,1,87,estimated from value
+2014,392,Japan,477833,36627697,estimated from value
+2014,410,Rep. of Korea,156290,12779379,reported net weight
+2014,504,Morocco,25250,1533423,reported net weight
+2014,579,Norway,1786,136882,estimated from value
+2014,608,Philippines,22190,1925069,reported net weight
+2014,620,Portugal,255396,18977109,reported net weight
+2014,704,Viet Nam,124510,9706358,reported net weight
+2014,724,Spain,342185,25505270,reported net weight
+2014,752,Sweden,128917,8548034,reported net weight
+2014,768,Togo,1384993,115578440,reported net weight
+2014,784,United Arab Emirates,45575,3642866,reported net weight
+2014,792,Türkiye,2122687,162712046,estimated from value
+2014,826,United Kingdom,3708,284264,estimated from value
+2015,56,Belgium,130272,9257231,reported net weight
+2015,100,Bulgaria,130075,9075784,reported net weight
+2015,276,Germany,4789,351019,estimated from value
+2015,300,Greece,1340758,98266963,estimated from value
+2015,380,Italy,49,6095,reported net weight
+2015,410,Rep. of Korea,44000,2835501,reported net weight
+2015,414,Kuwait,1,121,reported net weight
+2015,504,Morocco,84700,6207839,reported net weight
+2015,566,Nigeria,0,3,estimated from value
+2015,620,Portugal,28450,1913568,reported net weight
+2015,724,Spain,428082,31240881,reported net weight
+2015,752,Sweden,282698,19530681,reported net weight
+2015,764,Thailand,49500,4591322,reported net weight
+2015,768,Togo,880431,103861841,reported net weight
+2015,784,United Arab Emirates,94859,7124275,reported net weight
+2015,792,Türkiye,587260,71697282,reported net weight
+2015,800,Uganda,0,32,estimated from value
+2015,842,USA,184,13491,estimated from value
+2016,76,Brazil,35899,2249084,reported net weight
+2016,100,Bulgaria,140343,13921987,reported net weight
+2016,156,China,174953,10965881,reported net weight
+2016,276,Germany,9271,617601,estimated from value
+2016,300,Greece,229131,14666733,reported net weight
+2016,380,Italy,124,16820,reported net weight
+2016,384,Côte d'Ivoire,722,48070,estimated from value
+2016,414,Kuwait,1,95,estimated from value
+2016,504,Morocco,69486,4170054,reported net weight
+2016,620,Portugal,287865,20453312,reported net weight
+2016,724,Spain,190931,12718968,reported net weight
+2016,752,Sweden,402587,39299694,reported net weight
+2016,764,Thailand,41368,2676885,reported net weight
+2016,768,Togo,379137,32848451,reported net weight
+2016,784,United Arab Emirates,435289,31632960,reported net weight
+2016,792,Türkiye,469821,30308377,reported net weight
+2016,899,899,346629,23090894,estimated from value
+2017,36,Australia,16,972,estimated from value
+2017,100,Bulgaria,339294,21070144,reported net weight
+2017,156,China,26710,1507696,reported net weight
+2017,300,Greece,337180,20800880,reported net weight
+2017,360,Indonesia,48153,3095322,reported net weight
+2017,380,Italy,42549,2620760,reported net weight
+2017,392,Japan,49445,2962438,reported net weight
+2017,504,Morocco,339981,20369431,reported net weight
+2017,566,Nigeria,1000,107179,reported net weight
+2017,620,Portugal,42608,2348204,reported net weight
+2017,704,Viet Nam,84180,5168603,reported net weight
+2017,724,Spain,8965123,553064961,estimated from value
+2017,752,Sweden,147010,9213564,reported net weight
+2017,764,Thailand,309660,21608736,reported net weight
+2017,768,Togo,169650,15621987,reported net weight
+2017,784,United Arab Emirates,193131,11974425,reported net weight
+2017,792,Türkiye,929824,56431641,reported net weight
+2018,12,Algeria,60958,3144000,reported net weight
+2018,24,Angola,35000,1876675,reported net weight
+2018,100,Bulgaria,193044,11264667,reported net weight
+2018,156,China,44000,2231020,reported net weight
+2018,276,Germany,2512,145137,estimated from value
+2018,300,Greece,94358,5626512,reported net weight
+2018,360,Indonesia,49501,2933050,reported net weight
+2018,364,Iran,55847,2716416,reported net weight
+2018,392,Japan,47180,2786364,reported net weight
+2018,504,Morocco,257443,16588601,reported net weight
+2018,528,Netherlands,1931,283765,reported net weight
+2018,620,Portugal,217975,13208333,reported net weight
+2018,704,Viet Nam,311069,16404946,reported net weight
+2018,710,South Africa,1,36,estimated from value
+2018,724,Spain,384533,22113083,reported net weight
+2018,752,Sweden,41999,2438673,reported net weight
+2018,757,Switzerland,29337,2161136,reported net weight
+2018,764,Thailand,251882,14356899,reported net weight
+2018,768,Togo,204199,19096171,reported net weight
+2018,788,Tunisia,123120,7019759,reported net weight
+2018,792,Türkiye,1094259,60632889,reported net weight
+2018,818,Egypt,189951,10408349,reported net weight
+2019,12,Algeria,364370,17131336,reported net weight
+2019,100,Bulgaria,101139,5223103,reported net weight
+2019,156,China,41100,1391282,reported net weight
+2019,276,Germany,8589,435659,estimated from value
+2019,300,Greece,112050,4895238,reported net weight
+2019,504,Morocco,86467,4635269,reported net weight
+2019,620,Portugal,27000,1568903,reported net weight
+2019,682,Saudi Arabia,231350,9743672,reported net weight
+2019,699,India,10,1269,reported net weight
+2019,704,Viet Nam,20000,1009331,reported net weight
+2019,724,Spain,108929,5694574,reported net weight
+2019,757,Switzerland,62165,3153078,reported net weight
+2019,764,Thailand,204500,10598554,reported net weight
+2019,768,Togo,363390,26802732,reported net weight
+2019,788,Tunisia,224850,10394515,reported net weight
+2019,792,Türkiye,3270631,141477754,reported net weight
+2019,826,United Kingdom,8885,450638,estimated from value
+2019,842,USA,1,74,estimated from value
+2021,12,Algeria,998472,62049088,reported net weight
+2021,24,Angola,49500,2972220,reported net weight
+2021,56,Belgium,28,1772,estimated from value
+2021,156,China,4,256,estimated from value
+2021,276,Germany,2,115,estimated from value
+2021,360,Indonesia,10350,813698,reported net weight
+2021,380,Italy,11,2511,reported net weight
+2021,504,Morocco,13500,762946,reported net weight
+2021,512,Oman,30000,1756114,reported net weight
+2021,586,Pakistan,142795,9264112,reported net weight
+2021,682,Saudi Arabia,1159512,72236255,reported net weight
+2021,704,Viet Nam,134130,7037470,reported net weight
+2021,724,Spain,21359,1227330,reported net weight
+2021,768,Togo,71760,5696482,reported net weight
+2021,784,United Arab Emirates,789492,52637491,reported net weight
+2021,792,Türkiye,1802534,115447915,reported net weight
+2021,818,Egypt,1043382,70097316,reported net weight
+2021,842,USA,31157,1968315,estimated from value
+2022,12,Algeria,1497647,103305463,reported net weight
+2022,24,Angola,149150,11435176,reported net weight
+2022,156,China,2,134,estimated from value
+2022,276,Germany,22000,1681969,reported net weight
+2022,384,Côte d'Ivoire,41082,3297528,reported net weight
+2022,504,Morocco,68121,7442920,reported net weight
+2022,586,Pakistan,58503,3344844,reported net weight
+2022,682,Saudi Arabia,579576,43208441,reported net weight
+2022,710,South Africa,29,2141,estimated from value
+2022,768,Togo,331721,28422946,reported net weight
+2022,784,United Arab Emirates,85605,5580915,reported net weight
+2022,792,Türkiye,644776,36694587,reported net weight
+2022,818,Egypt,1782959,128298388,reported net weight
+2022,842,USA,15000,826618,reported net weight
+2023,12,Algeria,453011,28580833,reported net weight
+2023,24,Angola,319749,17925449,reported net weight
+2023,56,Belgium,27,1669,estimated from value
+2023,156,China,36,2219,estimated from value
+2023,344,Hong Kong SAR,8300,464892,reported net weight
+2023,384,Côte d'Ivoire,18625,1171349,reported net weight
+2023,504,Morocco,38206,2462919,reported net weight
+2023,566,Nigeria,53000,3233007,reported net weight
+2023,586,Pakistan,288720,16108614,reported net weight
+2023,682,Saudi Arabia,1045975,62849429,reported net weight
+2023,704,Viet Nam,112099,6392673,reported net weight
+2023,768,Togo,6376,453037,reported net weight
+2023,784,United Arab Emirates,762680,43459480,reported net weight
+2023,792,Türkiye,187368,11703274,reported net weight
+2023,818,Egypt,1489134,93527707,reported net weight
+2023,842,USA,13,821,estimated from value
+2024,12,Algeria,709968,39883795,reported net weight
+2024,24,Angola,261910,14377419,reported net weight
+2024,156,China,44,2484,estimated from value
+2024,344,Hong Kong SAR,16020,1849289,reported net weight
+2024,360,Indonesia,53965,3321570,reported net weight
+2024,384,Côte d'Ivoire,74,4708,reported net weight
+2024,392,Japan,72470,3831439,reported net weight
+2024,504,Morocco,203482,11284244,reported net weight
+2024,512,Oman,91099,4875440,reported net weight
+2024,566,Nigeria,210000,12714397,reported net weight
+2024,586,Pakistan,654515,37390544,reported net weight
+2024,682,Saudi Arabia,179080,9566839,reported net weight
+2024,704,Viet Nam,70900,3777835,reported net weight
+2024,768,Togo,139080,11733078,reported net weight
+2024,784,United Arab Emirates,446930,24162577,reported net weight
+2024,792,Türkiye,185973,10631553,reported net weight
+2024,818,Egypt,2619507,148320109,reported net weight

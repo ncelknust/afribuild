@@ -1,0 +1,15 @@
+year,clinker_imports_mt,value_musd,unit_value_usd_t,partners,basis,low_confidence,partner_sum_mt
+2010,2.17,182.9,84.0,15,reported world net weight,0,2.17
+2011,4.09,266.1,65.0,19,partner sum of reported net weights,0,4.09
+2012,3.48,282.3,81.0,17,reported world net weight,0,3.48
+2013,2.77,219.0,79.0,17,reported world net weight,0,2.77
+2014,3.87,563.9,146.0,21,reported world net weight,0,7.26
+2015,2.96,366.0,124.0,18,reported world net weight,0,4.09
+2016,3.21,239.7,75.0,17,partner sum of reported net weights,0,3.21
+2017,12.03,748.0,62.0,17,partner sum; low confidence (value-based estimates > 20% of mass),1,12.03
+2018,3.69,217.4,59.0,22,reported world net weight,0,3.69
+2019,5.22,244.6,47.0,18,reported world net weight,0,5.24
+2021,6.3,404.0,64.0,18,partner sum of reported net weights,0,6.3
+2022,5.28,373.5,71.0,14,reported world net weight,0,5.28
+2023,4.78,288.3,60.0,16,partner sum of reported net weights,0,4.78
+2024,5.91,337.7,57.0,17,reported world net weight,0,5.92

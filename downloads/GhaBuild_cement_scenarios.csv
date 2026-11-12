@@ -1,0 +1,6 @@
+scenario,factor_kg_per_t,total_mt,total_low,total_high,change_vs_current_pct
+Current average cement (clinker ratio 0.60-0.80),606,4.76,3.74,6.07,0.0
+All cement at clinker ratio 0.60,525,4.12,3.15,5.4,-13.0
+25% of cement as LC3,586,4.6,3.61,5.87,-3.0
+50% of cement as LC3,565,4.44,3.46,5.71,-7.0
+50% LC3 + gas-fired clinker supply,500,3.93,3.11,4.98,-17.0
