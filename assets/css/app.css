@@ -48,7 +48,7 @@ ul,ol{margin:0;padding-left:1.2em} li+li{margin-top:var(--s2)}
 .top .wrap{height:100%;display:flex;align-items:center;gap:var(--s4)}
 .brand{display:flex;align-items:center;gap:10px;color:var(--ink);white-space:nowrap;flex:none} .brand:hover{text-decoration:none}
 .brand svg{width:34px;height:34px;flex:none}
-.bn{display:flex;flex-direction:column;line-height:1.1} .bn b{font:600 1.125rem var(--serif);letter-spacing:-.01em;color:var(--ink)} .bn small{font:600 .72rem var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+.bn{display:flex;flex-direction:column;line-height:1.1} .bn b{font:600 1.125rem var(--serif);letter-spacing:-.01em;color:var(--ink)} .bn small{font:600 .625rem var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--accent);margin-top:3px;white-space:nowrap}
 .by{display:flex;align-items:center;gap:7px;flex:none;color:var(--muted);font-size:var(--fs-xs);font-weight:600;letter-spacing:.06em;padding:6px 10px;border-radius:8px} .by:hover{text-decoration:none;background:var(--surface2)}
 .by b{color:var(--ink);font-weight:700;letter-spacing:.08em} .by .dot{color:var(--faint)} .by span:first-child{font-weight:400;letter-spacing:0;text-transform:none}
 .nav{display:flex;gap:var(--s1);flex:1;min-width:0;overflow-x:auto;scrollbar-width:none} .nav::-webkit-scrollbar{display:none}
@@ -358,3 +358,5 @@ button.panel{transition:border-color .2s,background .2s} button.panel:hover{bord
 @media (max-width:680px){.features,.howto{grid-template-columns:1fr}.insight{grid-template-columns:1fr;gap:var(--s1)}.highlight,.band{padding:var(--s5)}}
 @media (max-width:1000px){.hero{grid-template-columns:minmax(0,1fr);min-height:0;gap:var(--s6)}.hero-map{max-width:380px;width:100%;margin:0 auto}}
 @media (max-width:640px){.hero .lede{font-size:1rem}.hero .btns .btn{flex:1 1 100%}.hero .kpis{gap:var(--s4)}}
+.top .brand{padding-right:var(--s5);margin-right:var(--s2);border-right:1px solid var(--line)}
+@media (max-width:640px){.top .brand{padding-right:0;margin-right:0;border-right:0}}
