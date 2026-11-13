@@ -318,6 +318,12 @@ footer h4{font:600 .75rem var(--sans);letter-spacing:.12em;text-transform:upperc
 footer a{color:var(--ink2)} footer ul{list-style:none;padding:0} footer li+li{margin-top:var(--s2)}
 .fcredit p{max-width:52ch;margin-top:var(--s4);line-height:1.6} .fcredit p b{color:var(--ink);font-weight:600}
 @media (max-width:760px){footer .wrap{grid-template-columns:1fr}}
+/* page loading: the footer stays hidden and the content area holds the screen until the next page is drawn */
+body.loading footer{visibility:hidden}
+body.loading #app{min-height:100vh}
+.loader{min-height:100vh;display:flex;align-items:center;justify-content:center;gap:var(--s3);color:var(--muted);font-size:var(--fs-sm);animation:fade .3s ease .1s both}
+.loader span{width:16px;height:16px;border-radius:50%;border:2px solid var(--line);border-top-color:var(--accent);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 @media print{.top,.cmd,footer,.subnav{display:none}.page{padding-top:0}}
 /* anchors land below the fixed bar; clickable panels */

@@ -47,12 +47,19 @@ async function route() {
   document.querySelectorAll(".nav a").forEach(a => { if (a.dataset.v.split(" ").includes(view)) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); });
   if (cleanup) { try { cleanup(); } catch (e) { console.error(e); } cleanup = null; }
   hideTip();
-  const main = $("#app"); main.innerHTML = "";
+  // While the next view loads, keep the footer out of sight and show a quiet loading state if it takes a moment.
+  const main = $("#app"), body = document.body;
+  body.classList.add("loading"); main.setAttribute("aria-busy", "true");
+  main.innerHTML = "";
+  if (!params.keep) scrollTo(0, 0);
   const sig = h; current = sig;
+  const wait = setTimeout(() => { if (current === sig && !main.firstChild) main.innerHTML = `<div class="loader" role="status"><span></span>Loading</div>`; }, 150);
   try {
     const mod = await import(`./views/${view}.js`);
     if (current !== sig) return;
+    main.innerHTML = "";
     const out = await mod.default(main, { data, params, sub: subnav(view), go: p => { location.hash = p; } });
+    if (current !== sig) { if (typeof out === "function") try { out(); } catch (e) { console.error(e); } return; }
     cleanup = typeof out === "function" ? out : null;
     countUp(main); reveal(main);
     const titled = main.querySelector("h1"); document.title = view === "home" ? "AfriBuild · Building materials carbon atlas" : (titled ? titled.textContent.trim().slice(0, 60) + " · " : "") + "AfriBuild";
@@ -60,8 +67,23 @@ async function route() {
     console.error(e);
     if (current !== sig) return;
     main.innerHTML = `<div class="wrap page"><div class="panel"><h2>Something did not load</h2><p class="muted">${esc(e.message)}. AfriBuild must be served over http (for example <code>make serve</code>); it cannot run from a file:// address.</p></div></div>`;
+  } finally {
+    clearTimeout(wait);
   }
+  if (current !== sig) return;
   if (!params.keep) scrollTo(0, 0);
+  main.removeAttribute("aria-busy"); body.classList.remove("loading");
+  if (!prefetched) { prefetched = true; setTimeout(prefetch, 1200); }
+}
+
+// After the first page is on screen, fetch the other pages and the data in the background so later pages open at once.
+let prefetched = false;
+function prefetch() {
+  const run = () => {
+    data.study().catch(() => {}); data.geo().catch(() => {}); data.cat().catch(() => {});
+    [...new Set(Object.values(VIEWS))].forEach(v => import(`./views/${v}.js`).catch(() => {}));
+  };
+  "requestIdleCallback" in window ? requestIdleCallback(run, { timeout: 3000 }) : run();
 }
 
 // command palette
