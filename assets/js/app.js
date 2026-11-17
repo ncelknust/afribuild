@@ -1,5 +1,5 @@
 // AfriBuild single-page application: router, shell, command palette and data loading.
-import { ICON, esc, initTips, hideTip, countUp, reveal, $ } from "./ui.js";
+import { ICON, esc, initTips, hideTip, countUp, reveal, $, CITE } from "./ui.js";
 
 // Navigation follows the workflow: understand, explore, examine the data, apply the tools, contribute.
 const NAV = [
@@ -33,7 +33,7 @@ function shell() {
   document.body.insertAdjacentHTML("beforeend", `<footer><div class="wrap">
     <div class="fcredit"><a class="brand" href="#/">${ICON.logo}<span class="bn"><b>AfriBuild</b><small>Building materials carbon atlas</small></span></a>
       <p>Developed by the <b>Net-Zero Carbon Emission Lab (NCEL)</b>, College of Engineering, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana.</p>
-      <p class="xs">Preliminary research output, catalogue v0.3.2. The underlying study is not yet peer reviewed.</p></div>
+      <p class="xs">Data: Sokama-Neuyam (2026), AfriBuild v${CITE.version}, NCEL, KNUST. <a href="${CITE.url}" target="_blank" rel="noopener">doi:${CITE.doi}</a> (CC BY 4.0)<br>Preliminary research output. The underlying study is not yet peer reviewed.</p></div>
     <div><h4>Methods</h4><ul><li><a href="#/materials">Emission factors</a></li><li><a href="#/evidence">Evidence library</a></li><li><a href="#/about?t=method">Documentation</a></li><li><a href="#/about?t=data">Downloads</a></li></ul></div>
     <div><h4>Contact</h4><ul><li><a href="#/contact">Contact NCEL</a></li><li><a href="mailto:ncel@knust.edu.gh">ncel@knust.edu.gh</a></li><li><a href="https://ncelknust.org" target="_blank" rel="noopener">ncelknust.org</a></li><li><a href="#/contribute">Contribute data</a></li></ul>
       <p class="xs" style="margin-top:16px"><a href="#/about?t=cite">Citation and licence</a> · <a href="#/about?t=protocol">Data protection</a><br>No cookies, tracking or third-party requests.</p></div>

@@ -102,6 +102,28 @@ export const RAMPS = {
 };
 export const NODATA = "#474b50";   // cool neutral grey, distinct in hue from every warm scale
 
+// How to cite the published data (Zenodo record 24320790, version 0.3.2).
+export const CITE = {
+  version: "0.3.2", doi: "10.5281/zenodo.24320790", conceptDoi: "10.5281/zenodo.24320789",
+  title: "AfriBuild: Building materials carbon atlas for Africa, catalogue and evidence data",
+  author: "Sokama-Neuyam, Y. A.", year: 2026,
+  publisher: "Net-Zero Carbon Emission Lab (NCEL), Kwame Nkrumah University of Science and Technology (KNUST)",
+  licence: "https://creativecommons.org/licenses/by/4.0/",
+};
+CITE.url = `https://doi.org/${CITE.doi}`;
+CITE.conceptUrl = `https://doi.org/${CITE.conceptDoi}`;
+CITE.text = `${CITE.author} (${CITE.year}). ${CITE.title} (Version ${CITE.version}) [Data set]. ${CITE.publisher}. ${CITE.url}`;
+CITE.bibtex = `@dataset{sokamaneuyam_2026_afribuild,
+  author    = {Sokama-Neuyam, Yen Adams},
+  title     = {{${CITE.title}}},
+  year      = {${CITE.year}},
+  version   = {${CITE.version}},
+  publisher = {${CITE.publisher}},
+  doi       = {${CITE.doi}},
+  url       = {${CITE.url}}
+}
+`;
+
 export function download(name, text, type = "text/csv") {
   const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text], { type })); a.download = name; document.body.appendChild(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(a.href), 2000);
